@@ -13,6 +13,8 @@ Have a look at the first 3 worksheets, they contain performance scores for each 
   * Use COUNTIFS to calc total number of all performance grades
       
 ## Storytelling
+![final_sum](https://github.com/user-attachments/assets/19ce6450-574a-4757-9113-8bba2a799151)
+
 - Customer Noah Chen graded barista Amy with 91 score (bolded RED)
 - Number of B's achieved is 79
 - Barista Amy got 13 As, 9 Bs, and none Cs
@@ -24,6 +26,8 @@ Have a look at the worksheets Missed Term 1 through to Term 4, they contain a li
 - Consolidating tool to count days of missed orders for 3 terms
 
 ## Storytelling
+![missed_order](https://github.com/user-attachments/assets/d050281d-776d-4664-b39b-de31d43d6689)
+
 - 5 distinct customers didn't pick up their drinks for more than 2 orders. They are: CUST0050, 0027, 0052, 0070, and 0079.
 
 
@@ -39,3 +43,5 @@ Use nest functions with text functions (ex: PROPER, LOWER, UPPER, ...)
 - Full name: =PROPER(CONCAT(B4," ",C4))
 - Email: =LOWER(CONCAT(LEFT(B4,1),C4,"@bbt.com"))
 - ID: =CONCAT(2015,"-",RIGHT(A4,3))
+![customer_report_1](https://github.com/user-attachments/assets/ac968aa5-5444-4162-8b73-676dba63af89)
+![customer_report_2](https://github.com/user-attachments/assets/daa00dbb-f72e-40f6-bac5-6b09a708cf54)
