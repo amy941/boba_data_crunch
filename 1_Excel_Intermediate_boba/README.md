@@ -1,17 +1,41 @@
 # Intro
 
-# Final Summary worksheet
+# Final Summary worksheet📈
+Have a look at the first 3 worksheets, they contain performance scores for each barita from term 1-4. Now go to the Final Summary worksheet and use 3D-Formulas to get performance score average for 3 terms.
+
+## Approach
 - **3D-formulas:**
-  * ```performance score average``` for each barista for terms 1,2,3,4. 
     ```=AVERAGE('Orders Term 1:Orders Term 4'!E4)```
 - **Name Ranges:**
   * **Create from Selection** to name each of columns of data
-  * Customer Ethan Tran graded barista Amy with 95 score (bolded RED)
 
-- **Text Functions:**
+ - **Text Functions:**
   * Use COUNTIFS to calc total number of all performance grades
-  * Number of B's achieved is 79
-  * Barista Amy As: 13
+      
+## Storytelling
+- Customer Noah Chen graded barista Amy with 91 score (bolded RED)
+- Number of B's achieved is 79
+- Barista Amy got 13 As, 9 Bs, and none Cs
 
-# Absence Report worksheet
+# Missed Order worksheet📈
+Have a look at the worksheets Missed Term 1 through to Term 4, they contain a list of dates that customers didn't pick up their beverage orders. We need to create a summary showing a count of how many days each customer missed their pickup.
 
+## Approach
+- Consolidating tool to count days of missed orders for 3 terms
+
+## Storytelling
+- 5 distinct customers didn't pick up their drinks for more than 2 orders. They are: CUST0050, 0027, 0052, 0070, and 0079.
+
+
+# Customer Report worksheet📈
+Go to the Customer Report worksheet. Some of the information still needs to be completed. Create a formula in E4 to return the Customer's full name, this should be First Name followed by a space and then Surname. The case must also be corrected so that all words start with a capital letter but everything else is in lower case e.g., Ava Hoang
+Question 9
+In F4 create a formula to generate the customer email address. This should be their first initial, followed by their surname, followed by "@bbt.com", and must all be in lower case, e.g. ahoang@bbt.com. 
+In G4 create a formula that will put "2015-" followed by the last three digits of the Customer ID, e.g. 2015-001.
+We would like to get an idea of how baristas have progressed over the year. Create a sparkline line chart that charts the data. Change the sparkline to show the highest point. Which of these sparklines represents Olivia Jones' data?
+
+# Approach
+Use nest functions with text functions (ex: PROPER, LOWER, UPPER, ...)
+- Full name: =PROPER(CONCAT(B4," ",C4))
+- Email: =LOWER(CONCAT(LEFT(B4,1),C4,"@bbt.com"))
+- ID: =CONCAT(2015,"-",RIGHT(A4,3))
