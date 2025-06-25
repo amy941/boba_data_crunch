@@ -15,7 +15,7 @@ Have a look at the first 3 worksheets, they contain performance scores for each 
   * Use COUNTIFS to calc total number of all performance grades
       
 ## Storytelling
-![final_sum](https://github.com/user-attachments/assets/19ce6450-574a-4757-9113-8bba2a799151)
+![final_sum](https://github.com/user-attachments/assets/cb93cfe9-e884-4beb-930e-490d7856423e)
 
 - Customer Noah Chen graded barista Amy with 91 score (bolded RED)
 - Number of B's achieved is 79
@@ -28,7 +28,7 @@ Have a look at the worksheets Missed Term 1 through to Term 4, they contain a li
 - Consolidating tool to count days of missed orders for 3 terms
 
 ## Storytelling
-![missed_order](https://github.com/user-attachments/assets/d050281d-776d-4664-b39b-de31d43d6689)
+![missed_order](https://github.com/user-attachments/assets/7ee48e35-5d81-4ed0-831c-6b10d5065127)
 
 - 5 distinct customers didn't pick up their drinks for more than 2 orders. They are: CUST0050, 0027, 0052, 0070, and 0079.
 
@@ -45,13 +45,15 @@ Use nest functions with text functions (ex: PROPER, LOWER, UPPER, ...)
 - Full name: =PROPER(CONCAT(B4," ",C4))
 - Email: =LOWER(CONCAT(LEFT(B4,1),C4,"@bbt.com"))
 - ID: =CONCAT(2015,"-",RIGHT(A4,3))
-![customer_report_1](https://github.com/user-attachments/assets/ac968aa5-5444-4162-8b73-676dba63af89)
-![customer_report_2](https://github.com/user-attachments/assets/daa00dbb-f72e-40f6-bac5-6b09a708cf54)
+![customer_report_1](https://github.com/user-attachments/assets/61d457ab-7002-45f0-9e9e-bcce155ffee3)
+
+![customer_report_2](https://github.com/user-attachments/assets/1b879f17-172b-40b5-bad0-f3c056c8165f)
 
 - Total Row shows : 91 as performance score average graded 3 barista from 103 customers, 100 missed orders, $1205 Total Fees Owing.
 - filter the table to show 16 customers who owe more than $20
+![total_row](https://github.com/user-attachments/assets/32d8e656-85bf-4776-8a08-22a89d8028e4)
 
-
+![sparkline](https://github.com/user-attachments/assets/51da85e0-797b-4a5e-a58a-a5d0b3d55bb6)
 # PIVOT worksheet📈
 create a pivot table (in a new sheet) that shows Grade in the Row Labels, Barista in the Column Labels, and Count of Grade in the Values section. How many A's did Barista Amy and John get as a percentage of the column total?
 - Barista Amy: 59.09%
@@ -60,6 +62,7 @@ How many C's:
 - Barista Amy: 0.00%
 - Barista John: 12.90%
 
+![pivot1](https://github.com/user-attachments/assets/2926e3e3-5be1-45e3-b322-e4e7dc43ef10)
 
 The owner has observed that the baristas performing their duties seem to be increasingly more able and more motivated. He would like to see if there is a pattern in the results based on year. Create another pivot table to show the average performance final mark by year. Add a filter field and change the filter to only show data for Barista Amy. Format the values to only show 2 decimal places. What was Amy's final performance score in year 2024?
 - 88
@@ -68,3 +71,4 @@ Create a Clustered Column pivot chart. Add a linear trendline and display the R-
 Have a look at the other trend line options and select the one that returns the best R-squared value. Forecast forward for 1 period. If the trend continues, Barista Amy who performs in 2025 are expected to get an average result closest to…
 - 91
 
+![pivot2](https://github.com/user-attachments/assets/5084e74b-f9bf-4e01-a34b-1df5741e1bca)
