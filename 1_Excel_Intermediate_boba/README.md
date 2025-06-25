@@ -5,7 +5,7 @@
 ---
 
 # 1_FINAL SUMMARY worksheet📉
-- **Purpose:** ![Final Summary worksheet]() dives into customer feedback to evaluate barista performance across four terms.
+- **Purpose:** Final Summary worksheet dives into customer feedback to evaluate barista performance across four terms.
 - **Skills:** 3D-Formulas, linking worksheets, named ranges, and text functions.
 - **Outcome:** Aggregated performance scores, sugar/ice preferences, and overall grading insights.
 
