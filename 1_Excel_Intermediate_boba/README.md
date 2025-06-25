@@ -1,27 +1,31 @@
 # Intro
 - project: Click [here]
 - raw data: Click [here]
-- 
-# Final Summary worksheet📈
-Have a look at the first 3 worksheets, they contain performance scores for each barita from term 1-4. Now go to the Final Summary worksheet and use 3D-Formulas to get performance score average for 3 terms.
 
-## Approach
-- **3D-formulas:**
+---
+
+# 1_FINAL SUMMARY worksheet📉
+- **Purpose:** ![Final Summary worksheet]() dives into customer feedback to evaluate barista performance across four terms.
+- **Skills:** 3D-Formulas, linking worksheets, named ranges, and text functions.
+- **Outcome:** Aggregated performance scores, sugar/ice preferences, and overall grading insights.
+
+## Hightlights✨
+- **3D-formulas:** to calc. average scores across Term 1-4
     ```=AVERAGE('Orders Term 1:Orders Term 4'!E4)```
-- **Name Ranges:**
-  * **Create from Selection** to name each of columns of data
-
- - **Text Functions:**
-  * Use COUNTIFS to calc total number of all performance grades
+- **Name Ranges:** ```Create from Selection``` for clean, readable format.
+- **COUNTIFS and Conditional Formatting** to track & highlight grade distribution.
       
-## Storytelling
+## Key Insights🔎
+- Customer **Noah Chen** gave **Barista Amy** a top score of **91** (highlighted in RED)
+- **Barista Amy** earned: 13 A's, 9 B's, and 0 C's
+- **Total B grades:** **79** across all baristas
+- The average customer prefers **moderate sugar (40-60%)** and **light to moderate ice (25-50%)**
+
 ![final_sum](https://github.com/user-attachments/assets/cb93cfe9-e884-4beb-930e-490d7856423e)
 
-- Customer Noah Chen graded barista Amy with 91 score (bolded RED)
-- Number of B's achieved is 79
-- Barista Amy got 13 As, 9 Bs, and none Cs
+---
 
-# Missed Order worksheet📈
+# MISSED ORDER worksheet📈
 Have a look at the worksheets Missed Term 1 through to Term 4, they contain a list of dates that customers didn't pick up their beverage orders. We need to create a summary showing a count of how many days each customer missed their pickup.
 
 ## Approach
@@ -33,7 +37,7 @@ Have a look at the worksheets Missed Term 1 through to Term 4, they contain a li
 - 5 distinct customers didn't pick up their drinks for more than 2 orders. They are: CUST0050, 0027, 0052, 0070, and 0079.
 
 
-# Customer Report worksheet📈
+# CUSTOMER REPORT worksheet📉
 Go to the Customer Report worksheet. Some of the information still needs to be completed. Create a formula in E4 to return the Customer's full name, this should be First Name followed by a space and then Surname. The case must also be corrected so that all words start with a capital letter but everything else is in lower case e.g., Ava Hoang
 Question 9
 In F4 create a formula to generate the customer email address. This should be their first initial, followed by their surname, followed by "@bbt.com", and must all be in lower case, e.g. ahoang@bbt.com. 
@@ -54,7 +58,8 @@ Use nest functions with text functions (ex: PROPER, LOWER, UPPER, ...)
 ![total_row](https://github.com/user-attachments/assets/32d8e656-85bf-4776-8a08-22a89d8028e4)
 
 ![sparkline](https://github.com/user-attachments/assets/51da85e0-797b-4a5e-a58a-a5d0b3d55bb6)
-# PIVOT worksheet📈
+
+# PIVOT worksheet📉
 create a pivot table (in a new sheet) that shows Grade in the Row Labels, Barista in the Column Labels, and Count of Grade in the Values section. How many A's did Barista Amy and John get as a percentage of the column total?
 - Barista Amy: 59.09%
 - Barista John: 3.23%
