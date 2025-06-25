@@ -43,7 +43,7 @@
 ![missed_order](https://github.com/user-attachments/assets/7ee48e35-5d81-4ed0-831c-6b10d5065127)
 
 
-
+---
 
 # CUSTOMER REPORT worksheet📉
 Go to the Customer Report worksheet. Some of the information still needs to be completed. Create a formula in E4 to return the Customer's full name, this should be First Name followed by a space and then Surname. The case must also be corrected so that all words start with a capital letter but everything else is in lower case e.g., Ava Hoang
@@ -66,6 +66,8 @@ Use nest functions with text functions (ex: PROPER, LOWER, UPPER, ...)
 ![total_row](https://github.com/user-attachments/assets/32d8e656-85bf-4776-8a08-22a89d8028e4)
 
 ![sparkline](https://github.com/user-attachments/assets/51da85e0-797b-4a5e-a58a-a5d0b3d55bb6)
+
+---
 
 # PIVOT worksheet📉
 create a pivot table (in a new sheet) that shows Grade in the Row Labels, Barista in the Column Labels, and Count of Grade in the Values section. How many A's did Barista Amy and John get as a percentage of the column total?
