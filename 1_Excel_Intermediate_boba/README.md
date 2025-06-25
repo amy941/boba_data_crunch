@@ -6,7 +6,7 @@
 
 # 1_FINAL SUMMARY worksheet📉
 - **Purpose:** Final Summary worksheet dives into customer feedback to evaluate barista performance across four terms.
-- **Skills:** 3D-Formulas, linking worksheets, named ranges, and text functions.
+- **Skills:** 3D-Formulas, Linking worksheets, Named Ranges, and Text functions.
 - **Outcome:** Aggregated performance scores, sugar/ice preferences, and overall grading insights.
 
 ## Hightlights✨
@@ -26,15 +26,23 @@
 ---
 
 # MISSED ORDER worksheet📈
-Have a look at the worksheets Missed Term 1 through to Term 4, they contain a list of dates that customers didn't pick up their beverage orders. We need to create a summary showing a count of how many days each customer missed their pickup.
+- **Purpose:** Track and summarize customer no-shows across Terms 1–4 by counting missed drink pickups.
+- **Skills:** Consolidation, Sort & Filter, Conditional Formatting
+- **Outcome:** A ranked summary of customers who missed pickups, including frequent no-shows flagged in red.
 
-## Approach
-- Consolidating tool to count days of missed orders for 3 terms
-
-## Storytelling
+## Hightlights✨
+- **Consolidation Tool** used to merge data from ```Missed Term 1``` to ```Missed Term 4```
+- **Sorting** missed pickup from smallest to largest
+- **Conditional Formatting** to highlight customers who missed **2 or more orders.**
+      
+## Key Insights🔎
+- Most customers missed only **one pickup**
+- **5 customers** missed **2 or more** drink pickups: ```CUST0050```, ```CUST0027```, ```CUST0052```, ```CUST0070```, ```CUST0079```
+- **CUST0079** is the highest no-show with **3 missed orders**
+  
 ![missed_order](https://github.com/user-attachments/assets/7ee48e35-5d81-4ed0-831c-6b10d5065127)
 
-- 5 distinct customers didn't pick up their drinks for more than 2 orders. They are: CUST0050, 0027, 0052, 0070, and 0079.
+
 
 
 # CUSTOMER REPORT worksheet📉
