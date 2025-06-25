@@ -21,7 +21,7 @@
 - **Total B grades:** **79** across all baristas
 - The average customer prefers **moderate sugar (40-60%)** and **light to moderate ice (25-50%)**
 
-![final_sum](https://github.com/user-attachments/assets/7bce0768-ec6d-42b9-ac8c-b43e5859fb5f)
+![final_sum](https://github.com/user-attachments/assets/241a05cd-f704-430d-ba27-0b16d2c5a0d0)
 
 ---
 
