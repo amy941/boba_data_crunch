@@ -1,5 +1,7 @@
 # Intro
-
+- project: Click [here]
+- raw data: Click [here]
+- 
 # Final Summary worksheet📈
 Have a look at the first 3 worksheets, they contain performance scores for each barita from term 1-4. Now go to the Final Summary worksheet and use 3D-Formulas to get performance score average for 3 terms.
 
@@ -36,7 +38,7 @@ Go to the Customer Report worksheet. Some of the information still needs to be c
 Question 9
 In F4 create a formula to generate the customer email address. This should be their first initial, followed by their surname, followed by "@bbt.com", and must all be in lower case, e.g. ahoang@bbt.com. 
 In G4 create a formula that will put "2015-" followed by the last three digits of the Customer ID, e.g. 2015-001.
-We would like to get an idea of how baristas have progressed over the year. Create a sparkline line chart that charts the data. Change the sparkline to show the highest point. Which of these sparklines represents Olivia Jones' data?
+We would like to get an idea of how baristas have progressed over the year. Create a sparkline line chart that charts the data. Change the sparkline to show the highest point. Which of these sparklines represents Liam Kims' data?
 
 # Approach
 Use nest functions with text functions (ex: PROPER, LOWER, UPPER, ...)
@@ -45,3 +47,24 @@ Use nest functions with text functions (ex: PROPER, LOWER, UPPER, ...)
 - ID: =CONCAT(2015,"-",RIGHT(A4,3))
 ![customer_report_1](https://github.com/user-attachments/assets/ac968aa5-5444-4162-8b73-676dba63af89)
 ![customer_report_2](https://github.com/user-attachments/assets/daa00dbb-f72e-40f6-bac5-6b09a708cf54)
+
+- Total Row shows : 91 as performance score average graded 3 barista from 103 customers, 100 missed orders, $1205 Total Fees Owing.
+- filter the table to show 16 customers who owe more than $20
+
+
+# PIVOT worksheet📈
+create a pivot table (in a new sheet) that shows Grade in the Row Labels, Barista in the Column Labels, and Count of Grade in the Values section. How many A's did Barista Amy and John get as a percentage of the column total?
+- Barista Amy: 59.09%
+- Barista John: 3.23%
+How many C's:
+- Barista Amy: 0.00%
+- Barista John: 12.90%
+
+
+The owner has observed that the baristas performing their duties seem to be increasingly more able and more motivated. He would like to see if there is a pattern in the results based on year. Create another pivot table to show the average performance final mark by year. Add a filter field and change the filter to only show data for Barista Amy. Format the values to only show 2 decimal places. What was Amy's final performance score in year 2024?
+- 88
+- 
+Create a Clustered Column pivot chart. Add a linear trendline and display the R-squared value on the chart. Question 20
+Have a look at the other trend line options and select the one that returns the best R-squared value. Forecast forward for 1 period. If the trend continues, Barista Amy who performs in 2025 are expected to get an average result closest to…
+- 91
+
