@@ -5,8 +5,8 @@ _What starts as a simple tea order turns into a journey through intermediate Exc
 
 _At its core, this project is about using data to understand customer needs and drive smarter business decisions._
 
-- Project: Click [here]
-- Raw data: Click [here]
+- 👉Project: Click [here]
+- 👉Raw data: Click [here]
   
 - **Workbook Overview:**
 This project includes **12 color-coded worksheets**, each serving a specific purpose:
