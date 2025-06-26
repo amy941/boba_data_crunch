@@ -136,6 +136,7 @@
   * Barista John: 3.23%
   
 -  **C's**:
+  
   * Barista Amy: 0.00%
   * Barista John: 12.90%
     
