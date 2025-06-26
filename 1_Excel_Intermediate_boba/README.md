@@ -5,7 +5,7 @@ _What starts as a simple tea order turns into a journey through intermediate Exc
 
 _At its core, this project is about using data to understand customer needs and drive smarter business decisions._
 
-- Boba project: Click [here]
+- Project: Click [here]
 - Raw data: Click [here]
   
 - **Workbook Overview:**
@@ -21,6 +21,8 @@ Color-coded tabs guide the workflow
 ---
 
 # 1_FINAL SUMMARY worksheet📉
+## 👉Boba Excel: Click [here]
+
 - **Purpose:** Final Summary worksheet dives into customer feedback to evaluate barista performance across four terms.
 - **Skills:**
   * 3D-Formulas
@@ -46,6 +48,8 @@ Color-coded tabs guide the workflow
 ---
 
 # 2_MISSED ORDER worksheet📈
+## 👉Boba Excel: Click [here]
+
 - **Purpose:** Track and summarize customer no-shows across Terms 1–4 by counting missed drink pickups.
 - **Skills:**
   * Consolidation
@@ -69,6 +73,8 @@ Color-coded tabs guide the workflow
 ---
 
 # CUSTOMER REPORT worksheet📉
+## 👉Boba Excel: Click [here]
+
 - **Purpose:** Transform raw customer data into a clean format and analyze individual performance trends across four terms.
 - **Skills:**
   * Text functions (```CONCAT```, ```PROPER```,```UPPER```, ```LEFT```, ```RIGHT```, etc.)
@@ -121,6 +127,8 @@ Color-coded tabs guide the workflow
 ---
 
 # PIVOT worksheet📉
+## 👉Boba Excel: Click [here]
+
 - **Purpose:** Use pivot tables and charts to analyze barista performance by grade and year, identify patterns, and forecast future results.
 - **Skills:**
   * Pivot Tables & Pivot Charts
