@@ -1,4 +1,4 @@
-# Intro
+# INTRO
 - project: Click [here]
 - raw data: Click [here]
 
@@ -6,7 +6,11 @@
 
 # 1_FINAL SUMMARY worksheet📉
 - **Purpose:** Final Summary worksheet dives into customer feedback to evaluate barista performance across four terms.
-- **Skills:** 3D-Formulas, Linking worksheets, Named Ranges, and Text functions.
+- **Skills:**
+  * 3D-Formulas
+  * Linking worksheets
+  * Named Ranges
+  * Text functions
 - **Outcome:** Aggregated performance scores, sugar/ice preferences, and overall grading insights.
 
 ## Hightlights✨
@@ -27,7 +31,10 @@
 
 # 2_MISSED ORDER worksheet📈
 - **Purpose:** Track and summarize customer no-shows across Terms 1–4 by counting missed drink pickups.
-- **Skills:** Consolidation, Sort & Filter, Conditional Formatting
+- **Skills:**
+  * Consolidation
+  * Sort & Filter
+  * Conditional Formatting
 - **Outcome:** A ranked summary of customers who missed pickups, including frequent no-shows flagged in red.
 
 ## Hightlights✨
@@ -46,44 +53,101 @@
 ---
 
 # CUSTOMER REPORT worksheet📉
-Go to the Customer Report worksheet. Some of the information still needs to be completed. Create a formula in E4 to return the Customer's full name, this should be First Name followed by a space and then Surname. The case must also be corrected so that all words start with a capital letter but everything else is in lower case e.g., Ava Hoang
-Question 9
-In F4 create a formula to generate the customer email address. This should be their first initial, followed by their surname, followed by "@bbt.com", and must all be in lower case, e.g. ahoang@bbt.com. 
-In G4 create a formula that will put "2015-" followed by the last three digits of the Customer ID, e.g. 2015-001.
-We would like to get an idea of how baristas have progressed over the year. Create a sparkline line chart that charts the data. Change the sparkline to show the highest point. Which of these sparklines represents Liam Kims' data?
+- **Purpose:** Transform raw customer data into a clean format and analyze individual performance trends across four terms.
+- **Skills:**
+  * Text functions (```CONCAT```, ```PROPER```,```UPPER```, ```LEFT```, ```RIGHT```, etc.)
+  * Nested formulas (```LOWER(CONCAT(LEFT(...)))```)
+  * Conditional functions (```SUMIFS```, ```COUNTIFS```,etc.)
+  * Sparkline charts
+  * Sort & Filter
+- **Outcome:** A clean and consistent customer report featuring:
+  * Full Names, Emails, ID tags
+  * Performance trends
+  * Summary of fees & missed orders. 
 
-# Approach
-Use nest functions with text functions (ex: PROPER, LOWER, UPPER, ...)
-- Full name: =PROPER(CONCAT(B4," ",C4))
-- Email: =LOWER(CONCAT(LEFT(B4,1),C4,"@bbt.com"))
-- ID: =CONCAT(2015,"-",RIGHT(A4,3))
+## Hightlights✨
+- **Text Functions** to format data:
+  * Full Name (e.g., Ava Hoang)
+    
+    ```=PROPER(CONCAT(B4," ",C4))```
+    
+  * **Email Address** (e.g., ahoang@bbt.com)
+    
+    ```=LOWER(CONCAT(LEFT(B4,1),C4,"@bbt.com"))```
+    
+  * **ID tags** (e.g., 2015-001)
+
+    ```=CONCAT(2015,"-",RIGHT(A4,3))```
+
 ![customer_report_1](https://github.com/user-attachments/assets/61d457ab-7002-45f0-9e9e-bcce155ffee3)
 
-![customer_report_2](https://github.com/user-attachments/assets/1b879f17-172b-40b5-bad0-f3c056c8165f)
 
-- Total Row shows : 91 as performance score average graded 3 barista from 103 customers, 100 missed orders, $1205 Total Fees Owing.
-- filter the table to show 16 customers who owe more than $20
-![total_row](https://github.com/user-attachments/assets/32d8e656-85bf-4776-8a08-22a89d8028e4)
+- **Sparklines** to visualize how baristas have progressed over the year.
+  * Use **High Point** markers to highlight performance peaks.
+  * Example: Barista Tom's peak performance score is 86 in Term 3, graded by Liam Kim, visible in the orange dot.
 
 ![sparkline](https://github.com/user-attachments/assets/51da85e0-797b-4a5e-a58a-a5d0b3d55bb6)
+
+- **Structured Table** with ```Total Row``` enabled:
+  * Average Performance Final Score: **91**
+  * Total Missed Orders: **100**
+  * Total Fees Owing: **$1205**
+
+![total_row](https://github.com/user-attachments/assets/32d8e656-85bf-4776-8a08-22a89d8028e4)
+
+
+## Key Insights🔎
+- **103 customers** evaluated the performance of 3 baristas across four terms.
+- **16 customers** owe more than **$20 in fees**, contributing to **$1,205 total fees owing**
+- **100 total missed orders** across all terms.
+- ```PROPER``` and ```LOWER``` functions ensures clean formatting for both names and emails.
 
 ---
 
 # PIVOT worksheet📉
-create a pivot table (in a new sheet) that shows Grade in the Row Labels, Barista in the Column Labels, and Count of Grade in the Values section. How many A's did Barista Amy and John get as a percentage of the column total?
-- Barista Amy: 59.09%
-- Barista John: 3.23%
-How many C's:
-- Barista Amy: 0.00%
-- Barista John: 12.90%
+- **Purpose:** Use pivot tables and charts to analyze barista performance by grade and year, identify patterns, and forecast future results.
+- **Skills:**
+  * Pivot Tables & Pivot Charts
+  * Percentage of column total
+  * Data filtering
+  * Trendline analysis, R-squared interpretation, and forecasting
+- **Outcome:**
+  * Grade distribution by barista
+  * Year-over-year performance trend
+  * Forecast for future performance using the best-fitting trendline
+## Hightlights✨
+- First **Pivot Table** for Grade Distribution:
+  * **Row Labels:** Grade (A, B, C)
+  * **Column Labels:** Barista
+  * **Values:** Count of Grade (shown as % of column total)
 
+- Second **Pivot Table** for Yearly Performance Trend:
+  * Shows **average final performance scores by year**
+  * Filter applied to display only **Barista Amy**
+  * Values formatted to **2 decimal places**
+
+- **Clustered Column Pivot Chart** with Trendlines:
+  * **Linear** and **Polynomial** trendlines
+  * **R-squared** values to assess model fit
+    
+## Key Insights🔎
+- **A's** (as % of the column total?)
+  * Barista Amy: 59.09%
+  * Barista John: 3.23%
+  
+-  **C's**:
+  * Barista Amy: 0.00%
+  * Barista John: 12.90%
+    
 ![pivot1](https://github.com/user-attachments/assets/2926e3e3-5be1-45e3-b322-e4e7dc43ef10)
 
-The owner has observed that the baristas performing their duties seem to be increasingly more able and more motivated. He would like to see if there is a pattern in the results based on year. Create another pivot table to show the average performance final mark by year. Add a filter field and change the filter to only show data for Barista Amy. Format the values to only show 2 decimal places. What was Amy's final performance score in year 2024?
-- 88
-- 
-Create a Clustered Column pivot chart. Add a linear trendline and display the R-squared value on the chart. Question 20
-Have a look at the other trend line options and select the one that returns the best R-squared value. Forecast forward for 1 period. If the trend continues, Barista Amy who performs in 2025 are expected to get an average result closest to…
-- 91
+- **Polynomial** trendline shows the best fit with **R² = 1**
+- If the upward trend continues, **Barista Amy** is forcasted to earn an **average score of 91 in 2025**
 
 ![pivot2](https://github.com/user-attachments/assets/5084e74b-f9bf-4e01-a34b-1df5741e1bca)
+
+---
+
+# CLOSING THOUGHTS
+_This part of the Boba Project transforms real-world business scenarios into powerful insights. By applying intermediate Excel skills, the data is presented in a clean, consistent, and more engaging format. Most importantly, it reveals patterns that can drive strategic decisions. And that’s the heart of analytics — not just crunching numbers, but telling honest stories with data._
+
