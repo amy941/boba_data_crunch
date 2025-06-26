@@ -131,12 +131,10 @@
   * **R-squared** values to assess model fit
     
 ## Key Insights🔎
-- **A's** (as % of the column total?)
+- **A's** (as % of the column total)
   * Barista Amy: 59.09%
   * Barista John: 3.23%
-  
 -  **C's**:
-  
   * Barista Amy: 0.00%
   * Barista John: 12.90%
     
