@@ -178,5 +178,5 @@ _By applying intermediate Excel skills, the data is presented in a clean, consis
 
 _Most importantly, it reveals patterns that can drive strategic decisions._ 
 
-_And that’s the heart of analytics — not just crunching numbers, but telling honest stories with data._🧋💓
+_And that’s the heart of analytics — not just crunching numbers, but telling honest stories with data._ 🧋💓
 
