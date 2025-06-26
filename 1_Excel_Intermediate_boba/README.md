@@ -1,6 +1,22 @@
 # INTRO🧋
-- project: Click [here]
-- raw data: Click [here]
+**Because cravings lead to curiosity.**
+
+_What starts as a simple tea order turns into a journey through intermediate Excel techniques — including 3D formulas, pivot tables, sparklines, conditional formatting, and forecasting._
+
+_At its core, this project is about using data to understand customer needs and drive smarter business decisions._
+
+- Boba project: Click [here]
+- Raw data: Click [here]
+  
+- **Workbook Overview:**
+This project includes **12 color-coded worksheets**, each serving a specific purpose:
+  * **Orders Term 1–4:** Raw customer ratings per term
+  * **Final Summary:** Aggregated scores, grades, and insights
+  * **PIVOT:** Grade breakdowns, trend charts, and forecasts
+  * **Customer Report:** Cleaned names, emails, IDs, and performance trends
+  * **Missed Orders + Missed Term 1–4:** Tracks and summarizes missed drink pickups
+    
+Color-coded tabs guide the workflow
 
 ---
 
