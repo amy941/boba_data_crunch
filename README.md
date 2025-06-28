@@ -1,4 +1,4 @@
-# boba_data_crunch 🧋
+# boba_data_crunch 🧋👩🏻‍💻✨
 
 **Because cravings lead to curiosity.**
 
