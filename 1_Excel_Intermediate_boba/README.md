@@ -20,11 +20,7 @@ Color-coded tabs guide the workflow
 ## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Final Summary worksheet dives into customer feedback to evaluate barista performance across four terms.
-- **Skills:**
-  * 3D-Formulas
-  * Linking worksheets
-  * Named Ranges
-  * Text functions
+- **Skills:** 3D-Formulas || Linking worksheets || Named Ranges || Text functions
 - **Outcome:** Aggregated performance scores, sugar/ice preferences, and overall grading insights.
 
 ## Hightlights✨
@@ -47,10 +43,7 @@ Color-coded tabs guide the workflow
 ## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Track and summarize customer no-shows across Terms 1–4 by counting missed drink pickups.
-- **Skills:**
-  * Consolidation
-  * Sort & Filter
-  * Conditional Formatting
+- **Skills:** Consolidation || Sort & Filter || Conditional Formatting
 - **Outcome:** A ranked summary of customers who missed pickups, including frequent no-shows flagged in red.
 
 ## Hightlights✨
@@ -72,12 +65,7 @@ Color-coded tabs guide the workflow
 ## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Transform raw customer data into a clean format and analyze individual performance trends across four terms.
-- **Skills:**
-  * Text functions (```CONCAT```, ```PROPER```,```UPPER```, ```LEFT```, ```RIGHT```, etc.)
-  * Nested formulas (```LOWER(CONCAT(LEFT(...)))```)
-  * Conditional functions (```SUMIFS```, ```COUNTIFS```,etc.)
-  * Sparkline charts
-  * Sort & Filter
+- **Skills:** Text functions || Nested formulas || Conditional functions || Sparkline charts || Sort & Filter
 - **Outcome:** A clean and consistent customer report featuring:
   * Full Names, Emails, ID tags
   * Performance trends
@@ -126,11 +114,7 @@ Color-coded tabs guide the workflow
 ## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Use pivot tables and charts to analyze barista performance by grade and year, identify patterns, and forecast future results.
-- **Skills:**
-  * Pivot Tables & Pivot Charts
-  * Percentage of column total
-  * Data filtering
-  * Trendline analysis, R-squared interpretation, and forecasting
+- **Skills:** Pivot Tables,Charts,Slicers || Percentage of column total || Data filtering || Trendline analysis, R-squared interpretation, and forecasting
 - **Outcome:**
   * Grade distribution by barista
   * Year-over-year performance trend
@@ -167,7 +151,7 @@ Color-coded tabs guide the workflow
 ![pivot2](https://github.com/user-attachments/assets/5084e74b-f9bf-4e01-a34b-1df5741e1bca)
 
 - The **first eight customers** rated **Amy’s performance** either **A or B**, **no C** given.
-- Filtering to **Barista Amy** shows a consistent **upward trend** in performance (from 86 in 2023 to 88 in 2024)
+- Filtering to **Barista Amy** shows a consistent **upward trend** in performance (from 86 in 2023 to 89 in 2024)
 - The **forecasted** score for 2025 is **91**, suggesting continued improvement
 
 ![slicer](https://github.com/user-attachments/assets/32747ffa-043d-422a-b98e-2e1555a19645)
