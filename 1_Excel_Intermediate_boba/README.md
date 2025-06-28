@@ -172,7 +172,7 @@ Color-coded tabs guide the workflow
 - Filtering to **Barista Amy** shows a consistent **upward trend** in performance (from 86 in 2023 to 88 in 2024)
 - The **forecasted** score for 2025 is **91**, suggesting continued improvement
 
-![slicer](https://github.com/user-attachments/assets/3612c275-8e64-4794-ace6-d75698f6b84f)
+![slicer](https://github.com/user-attachments/assets/32747ffa-043d-422a-b98e-2e1555a19645)
 
 ---
 
