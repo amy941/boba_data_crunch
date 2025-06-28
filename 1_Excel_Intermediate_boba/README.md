@@ -142,10 +142,8 @@ Color-coded tabs guide the workflow
   * **Values:** Count of Grade (shown as % of column total)
 
 - Second **Pivot Table** for Yearly Performance Trend:
-  * Shows **average final performance scores by year**
-  * Filter applied to display only **Barista Amy**
-  * Values formatted to **2 decimal places**
-
+  * Shows **average final performance scores by year**, filtered only shows **Barista Amy**
+  
 - **Clustered Column Pivot Chart** with Trendlines:
   * **Linear** and **Polynomial** trendlines
   * **R-squared** values to assess model fit
