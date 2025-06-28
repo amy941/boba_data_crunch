@@ -1,8 +1,8 @@
 # INTRO🧋
 — Intermediate Excel: 3D formulas, sparklines, conditional formatting, pivot tables/charts/slicers, and forecasting.
 
-- **Project:** Click [here]
-- **Raw data:** Click [here]
+- **Project:** Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
+- **Raw data:** Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_raw%20(official).xlsx)
   
 - **Workbook Overview:**
 This project includes **12 color-coded worksheets**, each serving a specific purpose:
