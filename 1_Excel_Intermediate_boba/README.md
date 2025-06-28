@@ -119,7 +119,7 @@ _Screenshot of the Customer Report worksheet, showing performance trends over 4 
 
 _Screenshot of the Customer Report worksheet, showing missed orders and total fees in structured tables._
 
-##🔎Key Insights
+## 🔎Key Insights
 - **103 customers** evaluated the performance of 3 baristas across four terms.
 - **16 customers** owe more than **$20 in fees**, contributing to **$1,205 total fees owing**
 - **100 total missed orders** across all terms.
