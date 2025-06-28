@@ -2,7 +2,7 @@
 
 **Because cravings lead to curiosity.**
 
-_What starts as a simple tea order turns into a journey through intermediate Excel techniques — including 3D formulas, pivot tables, sparklines, conditional formatting, and forecasting._
+_What starts as a simple tea order turns into a journey through intermediate/advanced Excel techniques + Python_ 
 
 _At its core, this project is about using data to understand customer needs and drive smarter business decisions._
 
