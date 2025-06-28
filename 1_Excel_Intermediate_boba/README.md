@@ -1,4 +1,5 @@
 # INTRO🧋
+— Intermediate Excel: 3D formulas, sparklines, conditional formatting, pivot tables/charts/slicers, and forecasting.
 
 - **Project:** Click [here]
 - **Raw data:** Click [here]
