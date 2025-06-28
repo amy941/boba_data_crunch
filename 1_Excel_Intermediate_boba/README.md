@@ -97,6 +97,8 @@ _Screenshot of the Missed Orders worksheet displaying consolidated no-show data 
 
 _Screenshot of the Customer Report worksheet, showing "cleaned" customer records using Text functions._
 
+---
+
 - **Sparklines** to visualize how baristas have progressed over the year.
   * Use **High Point** markers to highlight performance peaks.
   * Example: Barista Tom's peak performance score is 86 in Term 3, graded by Liam Kim, visible in the orange dot.
@@ -104,6 +106,8 @@ _Screenshot of the Customer Report worksheet, showing "cleaned" customer records
 ![sparkline](https://github.com/user-attachments/assets/51da85e0-797b-4a5e-a58a-a5d0b3d55bb6)
 
 _Screenshot of the Customer Report worksheet, showing performance trends over 4 terms._
+
+---
 
 - **Structured Table** with ```Total Row``` enabled:
   * Average Performance Final Score: **91**
@@ -130,9 +134,7 @@ _Screenshot of the Customer Report worksheet, showing missed orders and total fe
     
 ## ✨Hightlights
 - First **Pivot Table** for Grade Distribution:
-  * **Row Labels:** Grade (A, B, C)
-  * **Column Labels:** Barista
-  * **Values:** Count of Grade (shown as % of column total)
+  * **Row Labels:** Grade || **Column Labels:** Barista || **Values:** Count of Grade (shown as % of column total)
 
 - Second **Pivot Table** for Yearly Performance Trend:
   * Shows **average final performance scores by year**, filtered only shows **Barista Amy**
@@ -145,9 +147,10 @@ _Screenshot of the Customer Report worksheet, showing missed orders and total fe
 - A **Clustered Column Pivot Chart** shows barista performance over time in Linear & Polynomial trendlines.
 
 ## 🔎Key Insights
-- **A's** (as % of the column total)
-  * Barista Amy: 59.09%
+- **A's** (as % of the column total)            
+  * Barista Amy: 59.09%                           
   * Barista John: 3.23%
+            
 -  **C's**:
   * Barista Amy: 0.00%
   * Barista John: 12.90%
@@ -156,12 +159,16 @@ _Screenshot of the Customer Report worksheet, showing missed orders and total fe
 
 _Screenshot of PivotTables, showing grade distribution by barista as % of column total_
 
+---
+
 - **Polynomial** trendline shows the best fit with **R² = 1**
 - If the upward trend continues, **Barista Amy** is forcasted to earn an **average score of 91 in 2025**
 
 ![pivot2](https://github.com/user-attachments/assets/5084e74b-f9bf-4e01-a34b-1df5741e1bca)
 
 _Screenshot of forecast charts, showing performance trends by barista and projected 2025 score using R-squared analysis and trendlines._
+
+---
 
 - The **first eight customers** rated **Amy’s performance** either **A or B**, **no C** given.
 - Filtering to **Barista Amy** shows a consistent **upward trend** in performance (from 86 in 2023 to 89 in 2024)
