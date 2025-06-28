@@ -37,6 +37,8 @@ Color-coded tabs guide the workflow
 
 ![final_sum](https://github.com/user-attachments/assets/241a05cd-f704-430d-ba27-0b16d2c5a0d0)
 
+_Screenshot of the Final Summary worksheet showing customerID, performance grades, summary statistics, and sugar/ice preferences._
+
 ---
 
 # 2_MISSED ORDER worksheet📈
