@@ -1,9 +1,12 @@
 # 📚TABLE OF CONTENTS
-- [1️⃣ Final Summary](#1_final-summary-worksheet-)
-- [2️⃣ Missed Order](#2_missed-order-worksheet-)
-- [3️⃣ Customer Report](#3_customer-report-worksheet-)
-- [4️⃣ Pivot Analysis](#4_pivot-worksheet-)
-- [💭 Closing Thoughts](#closing-thoughts-)
+- 🧋Intro
+- 1️⃣ Final Summary worksheet
+- 2️⃣ Missed Order worksheet
+- 3️⃣ Customer Report worksheet
+- 4️⃣ Pivot Analysis worksheet
+- 💭 Closing Thoughts
+
+---
 
 # 🧋INTRO
 - **INTERMEDIATE EXCEL:** 3D formulas, sparklines, conditional formatting, pivot tables/charts/slicers, and forecasting.
