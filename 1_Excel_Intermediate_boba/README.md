@@ -6,6 +6,13 @@
 - 4️⃣ Pivot Analysis worksheet
 - 💭 Closing Thoughts
 
+- [🧋 Intro](#intro)
+- [1️⃣ Final Summary worksheet](#1_final-summary-worksheet)
+- [2️⃣ Missed Order worksheet](#2_missed-order-worksheet)
+- [3️⃣ Customer Report worksheet](#3_customer-report-worksheet)
+- [4️⃣ Pivot Analysis worksheet](#4_pivot-worksheet)
+- [💭 Closing Thoughts](#closing-thoughts)
+
 ---
 
 # 🧋INTRO
