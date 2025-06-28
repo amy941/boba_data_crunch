@@ -1,11 +1,4 @@
 # 📚TABLE OF CONTENTS
-- 🧋Intro
-- 1️⃣ Final Summary worksheet
-- 2️⃣ Missed Order worksheet
-- 3️⃣ Customer Report worksheet
-- 4️⃣ Pivot Analysis worksheet
-- 💭 Closing Thoughts
-
 - [🧋 Intro](#intro)
 - [1️⃣ Final Summary worksheet](#1_final-summary-worksheet)
 - [2️⃣ Missed Order worksheet](#2_missed-order-worksheet)
