@@ -60,6 +60,7 @@ _Screenshot of the Final Summary worksheet showing customerID, performance grade
   
 ![missed_order](https://github.com/user-attachments/assets/7ee48e35-5d81-4ed0-831c-6b10d5065127)
 
+_Screenshot of the Missed Orders worksheet displaying consolidated no-show data across four terms, ranked and color-coded to flag frequent absentees._
 
 ---
 
@@ -89,12 +90,15 @@ _Screenshot of the Final Summary worksheet showing customerID, performance grade
 
 ![customer_report_1](https://github.com/user-attachments/assets/61d457ab-7002-45f0-9e9e-bcce155ffee3)
 
+_Screenshot of the Customer Report worksheet, showing "cleaned" customer records using Text functions._
 
 - **Sparklines** to visualize how baristas have progressed over the year.
   * Use **High Point** markers to highlight performance peaks.
   * Example: Barista Tom's peak performance score is 86 in Term 3, graded by Liam Kim, visible in the orange dot.
 
 ![sparkline](https://github.com/user-attachments/assets/51da85e0-797b-4a5e-a58a-a5d0b3d55bb6)
+
+_Screenshot of the Customer Report worksheet, showing performance trends over 4 terms._
 
 - **Structured Table** with ```Total Row``` enabled:
   * Average Performance Final Score: **91**
@@ -103,6 +107,7 @@ _Screenshot of the Final Summary worksheet showing customerID, performance grade
 
 ![total_row](https://github.com/user-attachments/assets/32d8e656-85bf-4776-8a08-22a89d8028e4)
 
+_Screenshot of the Customer Report worksheet, showing missed orders and total fees in structured tables._
 
 ## Key Insights🔎
 - **103 customers** evaluated the performance of 3 baristas across four terms.
@@ -134,7 +139,7 @@ _Screenshot of the Final Summary worksheet showing customerID, performance grade
   * **Linear** and **Polynomial** trendlines
   * **R-squared** values to assess model fit
 
-- **Pivot Slicers** was added for **Full Name** of customer, **Barista**, and **Grade**.
+- **Pivot Slicers** were added for **Full Name** of customer, **Barista**, and **Grade**.
 - A **Clustered Column Pivot Chart** shows barista performance over time in Linear & Polynomial trendlines.
 
 ## Key Insights🔎
@@ -147,16 +152,22 @@ _Screenshot of the Final Summary worksheet showing customerID, performance grade
     
 ![pivot1](https://github.com/user-attachments/assets/2926e3e3-5be1-45e3-b322-e4e7dc43ef10)
 
+_Screenshot of PivotTables, showing grade distribution by barista as % of column total_
+
 - **Polynomial** trendline shows the best fit with **R² = 1**
 - If the upward trend continues, **Barista Amy** is forcasted to earn an **average score of 91 in 2025**
 
 ![pivot2](https://github.com/user-attachments/assets/5084e74b-f9bf-4e01-a34b-1df5741e1bca)
+
+_Screenshot of forecast charts, showing performance trends by barista and projected 2025 score using R-squared analysis and trendlines._
 
 - The **first eight customers** rated **Amy’s performance** either **A or B**, **no C** given.
 - Filtering to **Barista Amy** shows a consistent **upward trend** in performance (from 86 in 2023 to 89 in 2024)
 - The **forecasted** score for 2025 is **91**, suggesting continued improvement
 
 ![slicer](https://github.com/user-attachments/assets/32747ffa-043d-422a-b98e-2e1555a19645)
+
+_Slicers were filtered to show Barista Amy's individual trend._
 
 ---
 
