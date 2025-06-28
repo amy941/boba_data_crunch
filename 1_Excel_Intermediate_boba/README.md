@@ -26,7 +26,7 @@ Color-coded tabs guide the workflow
 
 ---
 
-# 1_FINAL SUMMARY worksheet
+# 📉1_FINAL SUMMARY worksheet
 ## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Final Summary worksheet dives into customer feedback to evaluate barista performance across four terms.
