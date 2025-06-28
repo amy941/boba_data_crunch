@@ -1,4 +1,11 @@
-# INTRO🧋
+# 📚TABLE OF CONTENTS
+- [1️⃣ Final Summary](#1_final-summary-worksheet-)
+- [2️⃣ Missed Order](#2_missed-order-worksheet-)
+- [3️⃣ Customer Report](#3_customer-report-worksheet-)
+- [4️⃣ Pivot Analysis](#4_pivot-worksheet-)
+- [💭 Closing Thoughts](#closing-thoughts-)
+
+# 🧋INTRO
 - **INTERMEDIATE EXCEL:** 3D formulas, sparklines, conditional formatting, pivot tables/charts/slicers, and forecasting.
 
 - **Project:** Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
@@ -16,20 +23,20 @@ Color-coded tabs guide the workflow
 
 ---
 
-# 1_FINAL SUMMARY worksheet📉
+# 1_FINAL SUMMARY worksheet
 ## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Final Summary worksheet dives into customer feedback to evaluate barista performance across four terms.
 - **Skills:** 3D-Formulas || Linking worksheets || Named Ranges || Text functions
 - **Outcome:** Aggregated performance scores, sugar/ice preferences, and overall grading insights.
 
-## Hightlights✨
+## ✨Hightlights
 - **3D-formulas:** to calc. average scores across Term 1-4
     ```=AVERAGE('Orders Term 1:Orders Term 4'!E4)```
 - **Name Ranges:** ```Create from Selection``` for clean, readable format.
 - **COUNTIFS and Conditional Formatting** to track & highlight grade distribution.
       
-## Key Insights🔎
+## 🔎Key Insights
 - Customer **Noah Chen** gave **Barista Amy** a top score of **91** (highlighted in RED)
 - **Barista Amy** earned: 13 A's, 9 B's, and 0 C's
 - **Total B grades:** **79** across all baristas
@@ -41,19 +48,19 @@ _Screenshot of the Final Summary worksheet showing customerID, performance grade
 
 ---
 
-# 2_MISSED ORDER worksheet📈
+# 📉2_MISSED ORDER worksheet
 ## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Track and summarize customer no-shows across Terms 1–4 by counting missed drink pickups.
 - **Skills:** Consolidation || Sort & Filter || Conditional Formatting
 - **Outcome:** A ranked summary of customers who missed pickups, including frequent no-shows flagged in red.
 
-## Hightlights✨
+## ✨Hightlights
 - **Consolidation Tool** used to merge data from ```Missed Term 1``` to ```Missed Term 4```
 - **Sorting** missed pickup from smallest to largest
 - **Conditional Formatting** to highlight customers who missed **2 or more orders.**
       
-## Key Insights🔎
+## 🔎Key Insights
 - Most customers missed only **one pickup**
 - **5 customers** missed **2 or more** drink pickups: ```CUST0050```, ```CUST0027```, ```CUST0052```, ```CUST0070```, ```CUST0079```
 - **CUST0079** is the highest no-show with **3 missed orders**
@@ -64,7 +71,7 @@ _Screenshot of the Missed Orders worksheet displaying consolidated no-show data 
 
 ---
 
-# 3_CUSTOMER REPORT worksheet📉
+# 📉3_CUSTOMER REPORT worksheet
 ## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Transform raw customer data into a clean format and analyze individual performance trends across four terms.
@@ -74,7 +81,7 @@ _Screenshot of the Missed Orders worksheet displaying consolidated no-show data 
   * Performance trends
   * Summary of fees & missed orders. 
 
-## Hightlights✨
+## ✨Hightlights
 - **Text Functions** to format data:
   * Full Name (e.g., Ava Hoang)
     
@@ -109,7 +116,7 @@ _Screenshot of the Customer Report worksheet, showing performance trends over 4 
 
 _Screenshot of the Customer Report worksheet, showing missed orders and total fees in structured tables._
 
-## Key Insights🔎
+##🔎Key Insights
 - **103 customers** evaluated the performance of 3 baristas across four terms.
 - **16 customers** owe more than **$20 in fees**, contributing to **$1,205 total fees owing**
 - **100 total missed orders** across all terms.
@@ -117,7 +124,7 @@ _Screenshot of the Customer Report worksheet, showing missed orders and total fe
 
 ---
 
-# 4_PIVOT worksheet📉
+# 📉4_PIVOT worksheet
 ## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Use pivot tables and charts to analyze barista performance by grade and year, identify patterns, and forecast future results.
@@ -126,7 +133,8 @@ _Screenshot of the Customer Report worksheet, showing missed orders and total fe
   * Grade distribution by barista
   * Year-over-year performance trend
   * Forecast for future performance using the best-fitting trendline
-## Hightlights✨
+    
+## ✨Hightlights
 - First **Pivot Table** for Grade Distribution:
   * **Row Labels:** Grade (A, B, C)
   * **Column Labels:** Barista
@@ -142,7 +150,7 @@ _Screenshot of the Customer Report worksheet, showing missed orders and total fe
 - **Pivot Slicers** were added for **Full Name** of customer, **Barista**, and **Grade**.
 - A **Clustered Column Pivot Chart** shows barista performance over time in Linear & Polynomial trendlines.
 
-## Key Insights🔎
+## 🔎Key Insights
 - **A's** (as % of the column total)
   * Barista Amy: 59.09%
   * Barista John: 3.23%
@@ -171,7 +179,7 @@ _Slicers were filtered to show Barista Amy's individual trend._
 
 ---
 
-# CLOSING THOUGHTS💭
+# 💭CLOSING THOUGHTS
 _This part of the Boba Project transforms real-world business scenarios into powerful insights._ 
 
 _By applying intermediate Excel skills, the data is presented in a clean, consistent, and more engaging format._
