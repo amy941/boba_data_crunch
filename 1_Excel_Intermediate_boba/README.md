@@ -1,9 +1,4 @@
 # INTRO🧋
-**Because cravings lead to curiosity.**
-
-_What starts as a simple tea order turns into a journey through intermediate Excel techniques — including 3D formulas, pivot tables, sparklines, conditional formatting, and forecasting._
-
-_At its core, this project is about using data to understand customer needs and drive smarter business decisions._
 
 - **Project:** Click [here]
 - **Raw data:** Click [here]
@@ -153,7 +148,10 @@ Color-coded tabs guide the workflow
 - **Clustered Column Pivot Chart** with Trendlines:
   * **Linear** and **Polynomial** trendlines
   * **R-squared** values to assess model fit
-    
+
+- **Pivot Slicers** was added for **Full Name** of customer, **Barista**, and **Grade**.
+- A **Clustered Column Pivot Chart** shows barista performance over time in Linear & Polynomial trendlines.
+
 ## Key Insights🔎
 - **A's** (as % of the column total)
   * Barista Amy: 59.09%
@@ -168,6 +166,12 @@ Color-coded tabs guide the workflow
 - If the upward trend continues, **Barista Amy** is forcasted to earn an **average score of 91 in 2025**
 
 ![pivot2](https://github.com/user-attachments/assets/5084e74b-f9bf-4e01-a34b-1df5741e1bca)
+
+- The **first eight customers** rated **Amy’s performance** either **A or B**, **no C** given.
+- Filtering to **Barista Amy** shows a consistent **upward trend** in performance (from 86 in 2023 to 88 in 2024)
+- The **forecasted** score for 2025 is **91**, suggesting continued improvement
+
+![slicer](https://github.com/user-attachments/assets/3612c275-8e64-4794-ace6-d75698f6b84f)
 
 ---
 
