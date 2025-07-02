@@ -180,7 +180,7 @@ _Slicers were filtered to show Barista Amy's individual trend._
 
 ---
 
-# 💭CLOSING THOUGHTS
+# 💭CONCLUSIONS
 _This part of the Boba Project transforms real-world business scenarios into powerful insights._ 
 
 _By applying intermediate Excel skills, the data is presented in a clean, consistent, and more engaging format._
