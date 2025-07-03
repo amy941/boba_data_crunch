@@ -28,7 +28,7 @@ Color-coded tabs guide the workflow
 ---
 
 # 📉1_FINAL SUMMARY worksheet
-## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
+## 🔗Link: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Customer feedback for barista performance across four terms and sugar/ice preferences.
 - **Skills:** 3D-Formulas || Linking worksheets || Named Ranges || Text functions
@@ -52,7 +52,7 @@ _Screenshot of the Final Summary worksheet showing performance grades, summary s
 ---
 
 # 📉2_MISSED ORDER worksheet
-## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
+## 🔗Link: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Track customer no-shows by counting missed drink pickups across 4 terms.
 - **Skills:** Consolidation || Sort & Filter || Conditional Formatting
@@ -74,7 +74,7 @@ _Screenshot of the Missed Orders worksheet displaying consolidated no-show data 
 ---
 
 # 📉3_CUSTOMER REPORT worksheet
-## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
+## 🔗Link: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Transform raw customer data into a clean format and analyze individual barista performance.
 - **Skills:** Text functions || Nested formulas || Conditional functions || Sparklines || Structured Tables
@@ -127,7 +127,7 @@ _Screenshot of the Customer Report worksheet, showing missed orders and total fe
 ---
 
 # 📉4_PIVOT worksheet
-## 👉Boba Excel: Click [here](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
+## 🔗Link: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Use pivot tables and charts to analyze barista performance by grade and year, identify patterns, and forecast future results.
 - **Skills:** Pivot Tables,Charts,Slicers || Percentage of column total || Data filtering || Trendline analysis, R-squared, and forecasting
