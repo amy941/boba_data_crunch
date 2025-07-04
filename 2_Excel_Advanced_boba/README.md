@@ -48,6 +48,9 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 
   `=MATCH(lookup_value, lookup_array, [match_type])`
 
+
+![quote_table](https://github.com/user-attachments/assets/295bcbfc-02a7-419b-8ba3-11c6fcf9d446)
+
 | Column                         | Purpose                                                                             | Formula Example                                                                                                            |
 | ------------------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `D5` - Order Location          | Map location codes to region names                                                  | `=CHOOSE([@[Loc Code]], "Saddle Ridge", "Panorama Hills", "Beltline", "Country Hills", "Brentwood")`                       |
@@ -59,15 +62,28 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 | `K5` - Total Cost              | Calculate final cost after discount                                                 | `=[@[Order Price]] * (1 - [@[Discount]])`                                                                                  |
 
 
+
 ## 📊Data Visualization
 
+![PIE_top_selling](https://github.com/user-attachments/assets/51250adf-ccfd-4c61-9692-2be437b6fc40)
+
+_Pie chart showing % Total Cost by Short Order Description_
+
 - **Top 3 best-sellers:** `Straw Yog Slush`, `Avocado`, and `Matcha Latte`
-- **Most popular:** Straw Yog Slush 
-- **Least popular:** Chocolate Milk Tea
+- **Most popular:** `Straw Yog Slush` 
+- **Least popular:** `Chocolate Milk Tea`
 - **Fruit-favoured drinks with specialty toppings** drive the highest sales, reflecting a diverse range of customer preferences
 
-📷📷📷
-_Pie chart showing % Total Cost by Short Order Description_
+---
+
+![COMBO_top_customer](https://github.com/user-attachments/assets/5a772735-d628-44a2-9c79-d38f4218c3b1)
+
+_Clustered Bar & Line showing Top 5 customers with the highest total spending_
+
+- **Lucas Pham** and **Liam Nguyen** were the top spenders
+- **Ava Kim**, despite spending less overall, placed the highest number of orders **(12)**, suggesting smaller spending but more frequent purchases.
+- Spending (**Total Cost**) vs. Order Quantity (**Qty**) are **not strongly correlate**d. Some customers placed fewer orders but spent more per order.
+- The pattern suggests a mix of **high-spend, low-frequency customers** (ex: Lucas Pham) and **frequent, moderate spenders** (ex: Ava Kim)
 
 
 ## 🔎Key Insights
@@ -79,7 +95,10 @@ The total order value across all locations is $2,062.78, giving a benchmark for 
 
 
 Variations in drink prices, quantities, and categories highlight opportunities to optimize pricing and promotions for each region.
+
+
 ---
+
 
 # 📉2_MACROS workbook
 ## 🔗Link: [Advanced_Excel_boba]
