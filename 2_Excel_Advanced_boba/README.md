@@ -60,8 +60,24 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 
 ## 📊Data Visualization
 
-## 🔎Key Insights
+- **Top 3 best-sellers:** `Straw Yog Slush`, `Avocado`, and `Matcha Latte`
+- **Most popular:** Straw Yog Slush 
+- **Least popular:** Chocolate Milk Tea
+- **Fruit-favoured drinks with specialty toppings** drive the highest sales, reflecting a diverse range of customer preferences
 
+📷📷📷
+_Pie chart showing % Total Cost by Short Order Description_
+
+
+## 🔎Key Insights
+Panorama Hills generated the highest subtotal ($739.41), making it the most profitable order location.
+
+Customers in Category D placed higher-value orders but received the largest discount rates—balancing profit and customer loyalty.
+
+The total order value across all locations is $2,062.78, giving a benchmark for operational and pricing strategies.
+
+
+Variations in drink prices, quantities, and categories highlight opportunities to optimize pricing and promotions for each region.
 ---
 
 # 📉2_MACROS workbook
