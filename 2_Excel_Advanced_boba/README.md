@@ -36,16 +36,17 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 ## 🔢Excel Formulas Applied
 - **CHOOSE**: retrieving a value from a list based on a given numeric value. Useful for mapping codes to names.
   
-  `=CHOOSE(**index_num**, value1, [value2], ...)`
+  `=CHOOSE(index_num, value1, [value2], ...)`
   
 - **VLOOKUP**: Lookup a matching value of a table, then return a corresponding value from the same row.
   
-  `=VLOOKUP(**lookup_value**, table_array, col_index_num, [range_lookup])`
+  `=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])`
 
 - **INDEX-MATCH:** Performs dynamic lookups by row and column. More versatile than VLOOKUP.
   
-  `=INDEX(**array**, row_num, [column_num])
-  and =MATCH(**lookup_value**, lookup_array, [match_type])`
+  `=INDEX(array, row_num, [column_num])` 
+
+  `=MATCH(lookup_value, lookup_array, [match_type])`
 
 | Column                         | Purpose                                                                             | Formula Example                                                                                                            |
 | ------------------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
