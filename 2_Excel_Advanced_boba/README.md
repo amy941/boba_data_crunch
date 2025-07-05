@@ -4,7 +4,7 @@
 - Part 2: Macros
 ---
 
-# 🧋🧋INTRO
+# 🧋INTRO
 This is **Part 2** of the Bubble Tea project where I built a **quote summary and data visualization** for ```Phamily Tea House``` using advanced Excel. 
 
 The focus here is on **Customer Quote** section, covering: 
@@ -110,7 +110,9 @@ _Vertical bar chart showing total revenue by category with trendlines_
 
 - **Polynomial trendline fits best (R² = 0.9998)**, indicating an accelerating growth pattern in spending across discount categories.
 
-## 🔎Key Insights
+---
+
+# 📌CONCLUSIONS
 
 - 🏆**Top-sellers**: `Straw Yog Slush`, `Avocado`, and `Matcha Latte` are the best-selling drinks.
 
@@ -130,10 +132,6 @@ _Vertical bar chart showing total revenue by category with trendlines_
 - **Purpose:** 
 - **Skills:**
 
-## ✨Hightlights
-
-      
-## 🔎Key Insights
 
 
 
