@@ -61,6 +61,7 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 | `J5` - Discount                | Perform dynamic lookup for discount rate                                            | `=INDEX(Discounts, MATCH([@Category], Discount_Categories, 0), MATCH(J3, Customer_Categories, 0))`                         |
 | `K5` - Total Cost              | Calculate final cost after discount                                                 | `=[@[Order Price]] * (1 - [@[Discount]])`                                                                                  |
 
+---
 
 
 ## 📊Data Visualization
@@ -78,23 +79,46 @@ _Pie chart showing % Total Cost by Short Order Description_
 
 ![COMBO_top_customer](https://github.com/user-attachments/assets/5a772735-d628-44a2-9c79-d38f4218c3b1)
 
-_Clustered Bar & Line showing Top 5 customers with the highest total spending_
+_Bar & Line Charts showing Top 5 customers with the highest total spending_
 
 - **Lucas Pham** and **Liam Nguyen** were the top spenders
 - **Ava Kim**, despite spending less overall, placed the highest number of orders **(12)**, suggesting smaller spending but more frequent purchases.
-- Spending (**Total Cost**) vs. Order Quantity (**Qty**) are **not strongly correlate**d. Some customers placed fewer orders but spent more per order.
+- Spending (**Total Cost**) vs. Order Quantity (**Qty**) are **not strongly correlated**. Some customers placed fewer orders but spent more per order.
 - The pattern suggests a mix of **high-spend, low-frequency customers** (ex: Lucas Pham) and **frequent, moderate spenders** (ex: Ava Kim)
 
+---
+
+![BAR_cost_location](https://github.com/user-attachments/assets/1d05c6a9-6a59-47f2-a1ac-ad68c9d04b3f)
+
+_Horizontal bar chart summarizing total revenue by location during the first 5 hours of operation._
+
+- **Panorama Hills** sold the most drinks, generating the highest Total Revenue **($739.41)**.
+- **Saddle Ridge** ranked second **($510.59)**, followed by **Beltline** ($301.87) and **Brentwood** ($297.06).
+- **Country Hills** was the least profitable location **($213.86)**, indicating lower customer activity or smaller orders.
+- Spending is **unevenly distributed**, with Panorama Hills and Saddle Ridge together contributing over 60% of total revenue.
+- **Panorama Hills is likely a key market** for targeted promotions and resource allocation.
+
+---
+
+![BAR_category](https://github.com/user-attachments/assets/1350fb73-e2c8-43e3-8c31-fb8ebd632298)
+
+_Vertical bar chart showing total revenue by category with trendlines_
+
+- **Category D** generated the highest total revenue **($1,113.22)**, showing customers spend more in the highest discount category (D).
+
+- Total revenue **increases progressively from Category A to D**, confirming more sales occurred in the highest discount category (D).
+
+- **Polynomial trendline fits best (R² = 0.9998)**, indicating an accelerating growth pattern in spending across discount categories.
 
 ## 🔎Key Insights
-Panorama Hills generated the highest subtotal ($739.41), making it the most profitable order location.
 
-Customers in Category D placed higher-value orders but received the largest discount rates—balancing profit and customer loyalty.
+- 🏆**Top-sellers**: `Straw Yog Slush`, `Avocado`, and `Matcha Latte` are the best-selling drinks.
 
-The total order value across all locations is $2,062.78, giving a benchmark for operational and pricing strategies.
+- 👥**Customer buying patterns**: `Diverse purchasing habits` - some customers visit less often but spend more per order, while others purchase frequently with smaller totals.
+  
+- 📍**Location insights**: `Panorama Hills` and `Saddle Ridge` are the key locations driving sales and business growth.
 
-
-Variations in drink prices, quantities, and categories highlight opportunities to optimize pricing and promotions for each region.
+- 💸**Discount impact**: `Top spenders received bigger discounts`, tend to spend more overall, driving the majority of sales.
 
 
 ---
