@@ -70,7 +70,7 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 
 _Pie chart showing % Total Cost by Short Order Description_
 
-- **Top 3 best-sellers:** `Straw Yog Slush`, `Avocado`, and `Matcha Latte` sold the most during the first 5 hours of operations.
+- **Top 3 best-sellers:** `Straw Yog Slush`, `Avocado`, and `Matcha Latte`
 - **Most popular:** `Straw Yog Slush` 
 - **Least popular:** `Chocolate Milk Tea`
 - **Fruit-favoured drinks with specialty toppings** drive the highest sales, reflecting a diverse range of customer preferences
