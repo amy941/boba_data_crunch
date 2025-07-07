@@ -141,7 +141,7 @@ _Vertical bar chart showing total revenue by category with trendlines_
   
 ![button](https://github.com/user-attachments/assets/d01e42bb-9fdb-4af2-93b6-f4bcd0a00693)
 
-_Button was created for non-macro users to navigate easily._
+_Button was created for non-VBA users to navigate easily._
 
 
 2) **Edit Macro:**
