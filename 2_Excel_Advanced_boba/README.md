@@ -137,17 +137,23 @@ _Vertical bar chart showing total revenue by category with trendlines_
 
 👉 Click HERE: [raw_data]()
 
-- **Create "New Weekly Sales Sheet" Button** for non-macro users to easily navigate
+1) **Create "New Weekly Sales Sheet" Button** 
   
 ![button](https://github.com/user-attachments/assets/d01e42bb-9fdb-4af2-93b6-f4bcd0a00693)
 
-- **Edit Macro:**
+_Button was created for non-macro users to navigate easily._
+
+
+2) **Edit Macro:**
   
   ✅ **Create command for Week Commencing Day**
     
 ![commencing_date](https://github.com/user-attachments/assets/c2d0b21f-fc2c-4ac4-8505-1c8e3e8cd271)
 
-  ✅ **Widen the column width:** Create a `temp` macro--> Record `temp` macro when auto-widening the column--> Copy & Paste VBA code into the End of original macro
+_This macro creates a new worksheet and prompts the user to input the week commencing date._
+
+
+  ✅ **Widen the column width:** Create a `temp` macro--> Record `temp` macro when auto-widening the column--> Copy & Paste the generated VBA code into the End of the main macro
     
 ![widen_column](https://github.com/user-attachments/assets/bffa4df5-3a6a-4656-9ccd-6d05fd6767fc)
 
