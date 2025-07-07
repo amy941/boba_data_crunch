@@ -130,9 +130,22 @@ _Vertical bar chart showing total revenue by category with trendlines_
 # 📉2_MACROS workbook
 ## 🔗Link: [Advanced_Excel_boba]
 
-- **Purpose:** 
-- **Skills:**
+- **Purpose:** Create basic macros to automate repetive tasks
+- **Skills:** Create, edit, and manage macros efficiently
+  
+👉 Click HERE: [Advanced_Excel_boba]()
 
+👉 Click HERE: [raw_data]()
 
+- **Create "New Weekly Sales Sheet" Button** for non-macro users to easily navigate
+📷📷📷
 
+- **Edit Macro:**
+  * Create commamd for Week Commencing Day
+📷📷📷
+
+  * Widen the column width: Create a `temp` macro--> Record `temp` macro when auto-widening the column--> Copy & Paste VBA code into the End of original macro
+ 📷📷📷
+
+- **Relative Reference Macros** Import `SalesDay.csv` files into the system
 
