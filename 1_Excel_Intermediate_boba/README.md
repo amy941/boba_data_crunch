@@ -192,8 +192,11 @@ _Slicers were filtered to show Barista Amy's individual trend._
 - The **forecasted** score for 2025 is **91**, suggesting continued improvement
 
 
-
 ---
 
 # 💭CONCLUSIONS
-.................................................................
+✔️ Barista **Amy’s** performance consistently improved from 86 (2023) to 89 (2024), with a 2025 forecast of 91, showing strong **growth potential**.
+
+✔️ **Polynomial trendline** (R² = 1) indicates strong predictability and reliability in performance trends.
+
+✔️ Fee collection and missed orders remain rooms for improvement, with **$1,205 outstanding fees** and **100 missed orders** overall.
