@@ -15,8 +15,9 @@ The focus here is on **Customer Quote** section, covering:
 Together, these perspectives demonstrate how small businesses can use data-driven tools to streamline operations, optimize pricing, and better understand their customers.
 
 ## Resources
-- **Project:** Click [here]()
-- **Raw data:** Click [here]()
+👉 Click HERE: [Advanced_Excel_boba]()
+
+👉 Click HERE: [raw_data]()
 
 ## Sheets Overview
 ..........................
@@ -64,7 +65,7 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 ---
 
 
-## 📊Data Visualization
+## 📊Data Visualization - PIVOT
 
 ![PIE_top_selling](https://github.com/user-attachments/assets/51250adf-ccfd-4c61-9692-2be437b6fc40)
 
