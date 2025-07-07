@@ -139,7 +139,7 @@ _Vertical bar chart showing total revenue by category with trendlines_
 
 - **Create "New Weekly Sales Sheet" Button** for non-macro users to easily navigate
   
-![buttont(https://github.com/user-attachments/assets/d01e42bb-9fdb-4af2-93b6-f4bcd0a00693)
+![button](https://github.com/user-attachments/assets/d01e42bb-9fdb-4af2-93b6-f4bcd0a00693)
 
 - **Edit Macro:**
   
