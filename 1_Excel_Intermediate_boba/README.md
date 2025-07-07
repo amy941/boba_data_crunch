@@ -67,7 +67,7 @@ _Screenshot of the Final Summary worksheet showing performance grades, summary s
       
 ## 🔎Key Insights
 
-![missed_order](https://github.com/user-attachments/assets/7ee48e35-5d81-4ed0-831c-6b10d5065127)
+![missed_order](https://github.com/user-attachments/assets/3f795e3c-e995-4255-a9fc-d28244c31773)
 
 _Screenshot of the Missed Orders worksheet displaying consolidated no-show data across four terms, frequent absentees flagged in red._
 
