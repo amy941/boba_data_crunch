@@ -114,13 +114,13 @@ _Vertical bar chart showing total revenue by category with trendlines_
 
 # 📌CONCLUSIONS
 
-- 🏆**Top-sellers**: `Straw Yog Slush`, `Avocado`, and `Matcha Latte` are the best-selling drinks.
+✔️ **Top-sellers**: `Straw Yog Slush`, `Avocado`, and `Matcha Latte` are the best-selling drinks.
 
-- 👥**Customer buying patterns**: `Diverse purchasing habits` - some customers visit less often but spend more per order, while others purchase frequently with smaller totals.
+✔️ **Customer buying patterns**: `Diverse purchasing habits` - some customers visit less often but spend more per order, while others purchase frequently with smaller totals.
   
-- 📍**Location insights**: `Panorama Hills` and `Saddle Ridge` are the key locations driving sales and business growth.
+✔️ **Location insights**: `Panorama Hills` and `Saddle Ridge` are the key locations driving sales and business growth.
 
-- 💸**Discount impact**: `Top spenders received bigger discounts`, tend to spend more overall, driving the majority of sales.
+✔️ **Discount impact**: `Top spenders received bigger discounts`, tend to spend more overall, driving the majority of sales.
 
 
 ---
