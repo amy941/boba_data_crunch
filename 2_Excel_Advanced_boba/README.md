@@ -137,14 +137,14 @@ _Vertical bar chart showing total revenue by category with trendlines_
 
 👉 Click HERE: [raw_data]()
 
-1) **Create "New Weekly Sales Sheet" Button** 
+## 1) **Create "New Weekly Sales Sheet" Button** 
   
 ![button](https://github.com/user-attachments/assets/d01e42bb-9fdb-4af2-93b6-f4bcd0a00693)
 
 _This button (in purple) allows non-VBA users to navigate easily_
 
 
-2) **Edit Macro:**
+## 2) **Edit Macro:**
   
 ✅ **Create command for Week Commencing Day**
     
