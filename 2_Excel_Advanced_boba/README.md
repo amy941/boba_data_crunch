@@ -147,5 +147,8 @@ _Vertical bar chart showing total revenue by category with trendlines_
   * Widen the column width: Create a `temp` macro--> Record `temp` macro when auto-widening the column--> Copy & Paste VBA code into the End of original macro
  📷📷📷
 
-- **Relative Reference Macros** Import `SalesDay.csv` files into the system
+- **Relative Reference Macros**
+  * Import `SalesDay.csv` files into the system from Legacy Wizards
+  * Debug: Comment out the bug
+📷📷📷
 
