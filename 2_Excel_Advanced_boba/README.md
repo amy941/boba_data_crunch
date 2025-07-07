@@ -152,9 +152,13 @@ _This button (in purple) allows non-VBA users to navigate easily_
 
 _This macro creates a new worksheet and prompts the user to input the week commencing date._
 
+---
+
 ✅ **Widen the column width:** Create a `temp` macro--> Record `temp` macro when auto-widening the column(s)--> Copy & Paste the generated VBA code into the End of the main macro
     
 ![widen_column](https://github.com/user-attachments/assets/bffa4df5-3a6a-4656-9ccd-6d05fd6767fc)
+
+---
 
 ✅ **Relative Reference Macros**
   * **Import** `SalesDay.csv` files into the system from Legacy Wizards
