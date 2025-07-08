@@ -22,6 +22,13 @@ The focus here is on **Customer Quote** section, covering:
 
 Together, these perspectives demonstrate how small businesses can use data-driven tools to streamline operations, optimize pricing, and better understand their customers.
 
+## Resources
+👉**Click HERE:**
+- [VLOOKUP_boba_project](https://github.com/amy941/boba_data_crunch/blob/main/2_Excel_Advanced_boba/VLOOKUP_boba_project.xlsx)
+- [MACRO_boba_project](https://github.com/amy941/boba_data_crunch/blob/main/2_Excel_Advanced_boba/MACRO_boba_project.xlsm)
+
+👉**Click HERE:** [raw_data](https://github.com/amy941/boba_data_crunch/tree/main/raw_data/Advanced_raw)
+
 ## Sheets Overview
 📊**This data was recorded during the first 5 hours of operations at `VieNa Tea House`**
 
