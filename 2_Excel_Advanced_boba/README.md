@@ -2,8 +2,8 @@
 - [🧋 INTRO](#intro)
     
 - [📉 1_VLOOKUP workbook](#1_vlookup-workbook)
-  - [1) Excel Formulas Applied](#excel-formulas-applied)
-  - [2) Data Visualization - PIVOT](#data-visualization---pivot)
+  - [1) Excel Formulas Applied](#1-excel-formulas-applied)
+  - [2) Data Visualization - PIVOT](#2-data-visualization---pivot)
   
 - [📉 2_MACROS workbook](#2_macros-workbook)
   - [1) Create "New Weekly Sales Sheet" Button](#1-create-new-weekly-sales-sheet-button)
