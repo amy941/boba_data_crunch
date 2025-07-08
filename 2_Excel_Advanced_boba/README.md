@@ -9,7 +9,7 @@
   - [1) Create "New Weekly Sales Sheet" Button](#1-create-new-weekly-sales-sheet-button)
   - [2) Edit Macro](#2-edit-macro)
 
-
+- [📌 CONCLUSIONS](#conclusions)
 ---
 
 # 🧋INTRO
