@@ -5,7 +5,7 @@
 ---
 
 # 🧋INTRO
-This is **Part 2** of the Bubble Tea project where I built a **quote summary and data visualization** for ```Phamily Tea House``` using advanced Excel. 
+This is **Part 2** of the Bubble Tea project where I built a **quote summary and data visualization** for ```VieNa Tea House``` using advanced Excel. 
 
 The focus here is on **Customer Quote** section, covering: 
   * **order management** (location, description, quantity)
@@ -128,7 +128,7 @@ _Vertical bar chart showing total revenue by category with trendlines_
 
 
 # 📉2_MACROS workbook
-## 🔗Link: [Advanced_Excel_boba]
+## 🔗Link: [Advanced_Excel_boba]()
 
 - **Purpose:** Create basic macros to automate repetitive tasks.
 - **Skills:** Create, edit, and manage macros efficiently.
@@ -141,27 +141,28 @@ _Vertical bar chart showing total revenue by category with trendlines_
   
 ![button](https://github.com/user-attachments/assets/d01e42bb-9fdb-4af2-93b6-f4bcd0a00693)
 
-_This button (in purple) allows non-VBA users to navigate easily_
+_This button (in purple) allows non-VBA users to create a brand-new Weekly Sales Sheet automatically_
 
 
 ## 2) **Edit Macro:**
   
-✅ **Create command for Week Commencing Day**
+✅ **Create a prompt**
     
 ![commencing_date](https://github.com/user-attachments/assets/c2d0b21f-fc2c-4ac4-8505-1c8e3e8cd271)
 
-_This macro creates a new worksheet and prompts the user to input the week commencing date._
+_This macro prompts the user to input the week commencing date for the new worksheet._
 
 ---
 
 ✅ **Widen the column width:** Create a `temp` macro--> Record `temp` macro when auto-widening the column(s)--> Copy & Paste the generated VBA code into the End of the main macro
+
     
 ![widen_column](https://github.com/user-attachments/assets/bffa4df5-3a6a-4656-9ccd-6d05fd6767fc)
 
 ---
 
 ✅ **Relative Reference Macros**
-  * **Import** `SalesDay.csv` files into the system from Legacy Wizards
+  * **Import** Automatically import `SalesDay.txt` files into the system using Legacy Wizards
   * **Debug:** Comment out the bug
     
 ![import_data](https://github.com/user-attachments/assets/2a251c7d-0fd8-48df-b31c-1b98db14dfec)
@@ -172,4 +173,4 @@ _This macro used to import sales data from a text file into the worksheet_
 
 # 📌CONCLUSIONS
 
-These macros help automate creating new sales sheets, adjusting column widths, and importing sales data — streamlining repetitive Excel workflows for both VBA and non-VBA users.
+These macros streamline **repetitive Excel tasks** such as `creating new sales sheets`, `adjusting column widths`, and `importing sales data`, making workflows easier for both **VBA and non-VBA users.**
