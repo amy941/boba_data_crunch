@@ -22,11 +22,6 @@ The focus here is on **Customer Quote** section, covering:
 
 Together, these perspectives demonstrate how small businesses can use data-driven tools to streamline operations, optimize pricing, and better understand their customers.
 
-## Resources
-👉 Click HERE: [Advanced_Excel_boba]()
-
-👉 Click HERE: [raw_data]()
-
 ## Sheets Overview
 📊**This data was recorded during the first 5 hours of operations at `VieNa Tea House`**
 
@@ -37,7 +32,7 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 ---
 
 # 📉1_VLOOKUP workbook
-## 🔗Link: [Advanced_Excel_boba]()
+## 🔗Link: [VLOOKUP_boba_project](https://github.com/amy941/boba_data_crunch/blob/main/2_Excel_Advanced_boba/VLOOKUP_boba_project.xlsx)
 
 - **Purpose:** Pull sales data from other sheets to display a finished and organized Customer Quote.
 - **Skills Applied:**
@@ -126,22 +121,9 @@ _Vertical bar chart with trendlines showing Total Revenue by Category_
 
 ---
 
-# 📌CONCLUSIONS
-
-✔️ **Top-sellers**: `Straw Yog Slush`, `Avocado`, and `Matcha Latte` are the best-selling drinks.
-
-✔️ **Customer buying patterns**: `Diverse purchasing habits` - some customers visit less often but spend more per order, while others purchase frequently with smaller totals.
-  
-✔️ **Location insights**: `Panorama Hills` and `Saddle Ridge` are the key locations driving sales and business growth.
-
-✔️ **Discount impact**: `Top spenders received bigger discounts`, tend to spend more overall, driving the majority of sales.
-
-
----
-
 
 # 📉2_MACROS workbook
-## 🔗Link: [Advanced_Excel_boba]()
+## 🔗Link: [MACRO_boba_project](https://github.com/amy941/boba_data_crunch/blob/main/2_Excel_Advanced_boba/MACRO_boba_project.xlsm)
 
 - **Purpose:** Create basic macros to automate repetitive tasks.
 - **Skills:** Create, edit, and manage macros efficiently.
@@ -186,4 +168,12 @@ _This macro used to import sales data from a text file into the worksheet_
 
 # 📌CONCLUSIONS
 
-These macros streamline **repetitive Excel tasks** such as `creating new sales sheets`, `adjusting column widths`, and `importing sales data`, making workflows easier for both **VBA and non-VBA users.**
+✔️ **Top-sellers**: `Straw Yog Slush`, `Avocado`, and `Matcha Latte` are the best-selling drinks.
+
+✔️ **Customer buying patterns**: `Diverse purchasing habits` - some customers visit less often but spend more per order, while others purchase frequently with smaller totals.
+  
+✔️ **Location insights**: `Panorama Hills` and `Saddle Ridge` are the key locations driving sales and business growth.
+
+✔️ **Discount impact**: `Top spenders received bigger discounts`, tend to spend more overall, driving the majority of sales.
+
+✔️ Macros streamline **repetitive Excel tasks**, making workflows easier for both **VBA and non-VBA users.**
