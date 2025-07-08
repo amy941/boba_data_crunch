@@ -1,9 +1,13 @@
 # 📚TABLE OF CONTENTS
-- [🧋 Intro](#intro)
+- [🧋 INTRO](#intro)
     
 - [📉 1_VLOOKUP workbook](#1_vlookup-workbook)
+  - [1) Excel Formulas Applied](#excel-formulas-applied)
+  - [2) Data Visualization - PIVOT](#data-visualization---pivot)
   
 - [📉 2_MACROS workbook](#2_macros-workbook)
+  - [1) Create "New Weekly Sales Sheet" Button](#1-create-new-weekly-sales-sheet-button)
+  - [2) Edit Macro](#2-edit-macro)
 
 
 ---
@@ -43,7 +47,7 @@ Together, these perspectives demonstrate how small businesses can use data-drive
   * Data Visualization using **Pivot Tables/Charts**
 
 
-## 🔢Excel Formulas Applied
+## 1) Excel Formulas Applied
 - **CHOOSE**: retrieving a value from a list based on a given numeric value. Useful for mapping codes to names.
   
   `=CHOOSE(index_num, value1, [value2], ...)`
@@ -74,7 +78,7 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 ---
 
 
-## 📊Data Visualization - PIVOT
+## 2) Data Visualization - PIVOT
 
 ![PIE_top_selling](https://github.com/user-attachments/assets/51250adf-ccfd-4c61-9692-2be437b6fc40)
 
