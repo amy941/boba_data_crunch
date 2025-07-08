@@ -1,17 +1,10 @@
 # 📚TABLE OF CONTENTS
 - [🧋 Intro](#intro)
-  - [Resources](#resources)
-  - [Sheets Overview](#sheets-overview)
     
 - [📉 1_VLOOKUP workbook](#1_vlookup-workbook)
-  - [🔢 Excel Formulas Applied](#excel-formulas-applied)
-  - [📊 Data Visualization - PIVOT](#data-visualization---pivot)
-- [📌 CONCLUSIONS (VLOOKUP)](#conclusions)
   
 - [📉 2_MACROS workbook](#2_macros-workbook)
-  - [1) Create "New Weekly Sales Sheet" Button](#1-create-new-weekly-sales-sheet-button)
-  - [2) Edit Macro](#2-edit-macro)
-- [📌 CONCLUSIONS (MACROS)](#conclusions-1)
+
 
 ---
 
