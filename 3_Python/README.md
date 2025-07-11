@@ -7,9 +7,12 @@
 This is **Part 3** of the Bubble Tea project where I applied **Python libraries** (NumPy, Pandas, Matplotlib, and Seaborn) to **transform raw CSV data into meaningful insights**. 
 
 The focus here is on:
-- **Conditional statements:** IF/ELIF/ELSE
-- **Loops:** WHILE loop & FOR loop
-- **Data Visualizations:** Graphs (Bar, Scatter Plot, Pie) and descriptive summary
+
+✅ **Conditional statements:** IF/ELIF/ELSE
+
+✅ **Loops:** WHILE loop & FOR loop
+
+✅ **Data Visualizations:** Graphs (Bar, Scatter Plot, Pie) and descriptive summary
 
 ## Resources
 👉**Click HERE:**
@@ -24,8 +27,9 @@ The focus here is on:
 # 🤔1) If/Elif/Else
 ## 🔗Link:
 
-- **Problem 1:** Amy is a data professional for `VieNa Tea House`. Her task is to leverage Sales Summary data to **categorize discounts based on order cost ranges.**
-- **Solution:** Using `def` function & conditional statments `IF/ELIF` to automate this process.
+## **Problem 1:** Amy is a data professional for `VieNa Tea House`. Her task is to leverage Sales Summary data to categorize discounts based on order cost ranges.
+
+✅ **Solution:** Using `def` function & conditional statments `IF/ELIF` to automate this process.
 
 ```
 def discount_category (order_cost):
@@ -49,17 +53,17 @@ discount_category(19.75)
 
 📷📷📷
 
-- **Insights:** After running a few examples, Amy's code successfully provides the matching categories based on the order cost. The logic ensures that any Order Cost is auto-evaluated and consistently assigned to the correct Category, or marked as `No Discount` if it falls outside the discount thresholds.
+✅ **Insights:** After running a few examples, Amy's code successfully provides the **matching categories based on the order cost**. The logic ensures that any **Order Cost is auto-evaluated** and consistently assigned to the **correct Category**, or marked as `No Discount` if it falls outside the discount thresholds.
 
 ---
 
-- **Problem 2:** Amy was assigened a new task. This time, her goal is to use the same Sales data to determine the reward conditions for customers.
-  * If a customer buys **10 or more drinks**, they get a **Free Drink**.
-  * If they buy **5 or more drinks**, they grant **5% off on their next drink**.
-  * Otherwise, **no reward.**
+## **Problem 2:** Amy was assigned a new task. This time, her goal is to use the same Sales data to identify customer reward benefits.
+- If a customer buys **10 or more drinks**, they get a **Free Drink**.
+- If they buy **5 or more drinks**, they grant **5% off on their next drink**.
+- Otherwise, **no reward.**
 
 
-- **Solution:** Using `def` function & conditional statments `IF/ELIF` to automate the reward logic.
+✅ **Solution:** Using `def` function & conditional statements `IF/ELIF` to automate the reward logic.
 
 ```
 def reward_customer(num_drinks, discount_threshold, free_drink_threshold):
@@ -78,23 +82,20 @@ reward_customer(3, discount_threshold=5, free_drink_threshold=10)   # None
 
 📷📷📷
 
-- **Insights:** After testing various scenarios, Amy’s code correctly applies the reward logic. Customers are automatically assigned the right benefit based on their purchase quantity, ensuring fair and consistent reward distribution.
+✅ **Insights:** After testing various scenarios, **Amy’s code correctly applies the reward logic**. Customers are automatically granted the right benefit based on their purchase quantity, ensuring a **fair and consistent reward** distribution.
   
 ---
 
 # ➿2) While loop and For loop
 ## 🔗Link:
 
-- **Problem 1:**
-`VieNa Tea House` runs a **Buy 2 Get 1 Free** deal on the first Tuesday of each month through their website. Customers have limited time to complete their orders.
-
+## **Problem 1:** `VieNa Tea House` offers a `Buy 2 Get 1 Free` deal on the first Tuesday of each month through their website. Customers have limited time to complete their orders. 
 Amy was asked to create a system that starts a **10-minute countdown**. During the countdown:
-
    * At **5 minutes**, print: "⏰ Clock is ticking. Finishing up your order! 5 minutes remaining."
    * At **2 minutes**, print: "⚠️ Don't lose the reward! 2 minutes remaining."
    * At **0 minutes**, print: "❌ User timed out. Please try again!"
-     
-- **Solution:** Using a `while` loop, `if/elif` statements, and `sleep()` function to simulate a real-time countdown.
+
+✅ **Solution:** Using a `while` loop, `if/elif` statements, and `sleep()` function to simulate a real-time countdown.
 
 ```
 from time import sleep
@@ -117,13 +118,12 @@ while mins >= 0:
 
 📷📷📷
 
-- **Insights:** Amy’s countdown timer works as intended, providing timely reminders and prompting users to complete their orders before the offer expires. The logic creates a simple yet effective user experience that encourages faster checkout.
+✅ **Insights:** **Amy’s countdown timer works** as intended, providing **timely reminders** and prompting users to **complete their orders** before the offer expires. The logic creates a simple yet effective user experience that encourages faster checkout.
 
 ---
 
-- **Problem 2:**
-  
-`VieNa Tea House` collected customer ratings **(1–10)** for their new **Crème Brûlée Milk Tea**, where 10 is the best. They want to classify the feedback into three categories:
+## **Problem 2:** `VieNa Tea House` collected customer ratings (1–10) for their monthly specialty `Crème Brûlée Milk Tea`, where 10 is the best. 
+They want to classify the feedback into three categories:
    * **Negative** (scores of 1-5)
    * **Neutral** (scores of 6-8)
    * **Positive** (scores of 9-10)
@@ -131,7 +131,7 @@ while mins >= 0:
 Amy was then asked to build a system that processes a list of integer scores and counts how many fall into each category.
 
      
-- **Solution:** Using a `for` loop, `if/elif` statements to iterate throught the list, classify each score, and count the totals.
+✅ **Solution:** Using a `for` loop, `if/elif` statements to iterate through the list, classify each score, and count the totals.
 
 ```
 def customer_feedback(score_list):
@@ -153,7 +153,7 @@ def customer_feedback(score_list):
 ```
 📷📷📷
 
-- **Insights:** Amy's system efficiently categorizes customer feedback. This helps the team assess the customer's preferences in drinks and then identify rooms for improvement for the next specialty.
+✅ **Insights:** **Amy's system efficiently categorizes customer feedback**. This allows the team to truly **understand what customers enjoy** and **fine-tune the next specialty** drink for an even better experience.
 
 ---
 
