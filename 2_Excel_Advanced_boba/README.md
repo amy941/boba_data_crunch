@@ -81,6 +81,7 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 
 
 ## 2) Data Visualization - PIVOT
+## 🔗Link: [VLOOKUP_boba_project](https://github.com/amy941/boba_data_crunch/blob/main/2_Excel_Advanced_boba/VLOOKUP_boba_project.xlsx)
 
 ![top_seller](https://github.com/user-attachments/assets/71450b69-2fc5-40be-9abf-1209184b4242)
 
