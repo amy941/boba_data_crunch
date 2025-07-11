@@ -153,15 +153,69 @@ def customer_feedback(score_list):
 ```
 📷📷📷
 
-✅ **Insights:** **Amy's system efficiently categorizes customer feedback**. This allows the team to truly **understand what customers enjoy** and **fine-tune the next specialty** drink for an even better experience.
+✅ **Insights:** Amy's system **efficiently categorizes customer feedback**. This allows the team to truly **understand what customers enjoy** and **fine-tune the next specialty** drink for an even better experience.
 
 ---
 
 # 📊3) Data Viz:
 ## 🔗Link:
 
+## 📝 1) Descriptive Summary: Amy was asked to conduct `exploratory data analysis (EDA)` on the Sales data.
+- She used **methods** and **attributes** such as `head()`, `.shape`, `.dtypes`, `.drop_duplicates()` to study and clean the CSV raw data.
+- She then applied `sort_values()` by **Qty** to find out the customer with the most orders.
+- Lastly, she sorted the data by **Price per Drink** to identify the most expensive drink.
 
+📷📷📷
+
+✅ **Key Findings:**
+
+✔️ Dataset has **100 rows** and **11 columns**, with **0 duplicates**
+
+✔️ Data types include **5 objects**, **2 integers**, and **4 floats**.
+
+✔️ **Ethan Tran** ranked first with **7 orders**, followed by Olivia Hoang and Ethan Kim.
+
+✔️ `Brown Sugar MT` and `Avocado Slush` are the **most costly drinks**
   
 
+---
+
+## 📊 2) Data Visualization: Amy was then asked to plot different data viz to gain visual understanding and insights.
+
+### Box plot: to show how Sales vary across locations.
 
 
+
+
+
+👉👉👉Check out more plots: Click [HERE]
+
+### Bar charts: to determine Top 5 best-selling drinks
+
+
+
+
+
+
+
+
+👉👉👉Check out more plots: Click [HERE]
+
+### Scatter plot: `Qty` vs. `Total Cost`
+
+
+
+
+
+
+
+👉👉👉Check out more plots: Click [HERE]
+
+### Pie chart: Total Sales by Order Location
+
+
+
+
+
+
+👉👉👉Check out more plots: Click [HERE]
