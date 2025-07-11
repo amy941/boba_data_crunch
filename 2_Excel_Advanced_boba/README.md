@@ -82,14 +82,14 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 
 ## 2) Data Visualization - PIVOT
 
-![PIE_top_selling](https://github.com/user-attachments/assets/51250adf-ccfd-4c61-9692-2be437b6fc40)
+![top_seller](https://github.com/user-attachments/assets/71450b69-2fc5-40be-9abf-1209184b4242)
 
-_Pie chart showing % Total Cost by Short Order Description_
+_Pie chart showing Top 5 Best-sellers_
 
-- **Top 3 Best-sellers:** `Straw Yog Slush`, `Avocado`, and `Matcha Latte`
-- **Most popular:** `Straw Yog Slush` 
-- **Least popular:** `Chocolate Milk Tea`
-- **Fruit-favoured drinks with specialty toppings** drive the highest sales, reflecting a diverse range of customer preferences
+- **Top 3 Best-sellers:** `Oolong Milk Tea`, `Strawberry Yogurt Slush`, and `Mango Green Tea`
+- **Most popular:** `Oolong Milk Tea`
+- **Least popular:** `Peach Oolong Tea`
+- The menu offers **diverse beverage choices** tailored to customer needs.
 
 ---
 
@@ -175,7 +175,7 @@ _This macro used to import sales data from a text file into the worksheet_
 
 # 📌CONCLUSIONS
 
-✔️ **Top-sellers**: `Straw Yog Slush`, `Avocado`, and `Matcha Latte` are the best-selling drinks.
+✔️ **Top-sellers**: `Oolong Milk Tea`, `Strawberry Yogurt Slush`, and `Mango Green Tea` are the best-selling drinks.
 
 ✔️ **Customer buying patterns**: `Diverse purchasing habits` - some customers visit less often but spend more per order, while others purchase frequently with smaller totals.
   
