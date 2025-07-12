@@ -59,7 +59,7 @@ discount_category(19.75)
 
 ## **Problem 2:** Amy was assigned a new task. This time, her goal is to use the same Sales data to identify customer reward benefits.
 - If a customer buys **10 or more drinks**, they get a **Free Drink**.
-- If they buy **5 or more drinks**, they grant **5% off on their next drink**.
+- If they buy **5 or more drinks**, they receive **5% off on their next drink**.
 - Otherwise, **no reward.**
 
 
@@ -184,38 +184,119 @@ def customer_feedback(score_list):
 
 ### Box plot: to show how Sales vary across locations.
 
+```
+# Boxplot 1: Order Location vs. Total Cost
+boxplot1 = sns.boxplot(data=boba,
+                      x='Order Location',
+                      y= 'Total Cost')
+boxplot1.set_title('Order Location vs. Total Cost')  # shows how Total Cost varies across locations.
 
+plt.show(boxplot1)
+```
+📷📷📷
 
+✔️ **Beltline** & **Country Hills** have the **highest median** Total Cost (>30), meaning customers tend to **place bigger orders** in these locations.
+
+✔️ **Saddle Ridge** & **Panorama Hills** show a **average median** (~20), suggesting **moderate spending** per order.
+
+✔️ **Brentwood** has the **lowest median** (~12), showing **customers spend less** per order in this area.
 
 
 👉👉👉Check out more plots: Click [HERE]
 
-### Bar charts: to determine Top 5 best-selling drinks
+---
+
+### Bar charts: to determine the most profitable location and Top 5 best-selling drinks
+
+```
+# Bar plot: Order Location vs. Total Cost
+
+# Group by 'Order Location' and sum of 'Total Cost'
+sales_by_location = boba.groupby('Order Location')['Total Cost'].sum().reset_index()
+
+# Plot
+plt.figure(figsize=(8,6))
+sns.barplot(data=sales_by_location,
+           x= 'Order Location',
+           y= 'Total Cost')
+
+plt.xlabel('Location')
+plt.ylabel('Total Sales ($)')
+plt.title('Total Sales ($) by Order Location')
+plt.xticks(rotation=45)
+
+plt.show()
+```
+
+📷📷📷
+<p align="center">
+  <img src="images/boxplot1.png" width="45%" alt="Boxplot 1">
+  <img src="images/barplot1.png" width="45%" alt="Barplot 1">
+</p>
 
 
+✔️ **Panorama Hills** generates the **highest Revenue** (>700$), followed by **Saddle Ridge** (~500$)
+
+✔️ **Beltline** & **Brentwood** earn **similar sales** (~300$).
+
+✔️ **Country Hills** records the **lowest revenue** (~200$). 
+
+✔️ `Oolong MT` is the **best-selling beverage** while `Passion Fruit Tea` is the **least popular** one.
 
 
-
-
-
+---
 
 👉👉👉Check out more plots: Click [HERE]
 
 ### Scatter plot: `Qty` vs. `Total Cost`
 
+```
+plt.figure(figsize=(8,6))
+plt.scatter(boba['Qty'], boba['Total Cost'])
+
+plt.xlabel('Quantity')
+plt.ylabel('Total Cost ($)')
+plt.title('Quantity vs. Total Cost ($)')
+
+plt.show()
+```
+
+📷📷📷
+
+✔️ Relationship between **Total Cost** and **Quantity** is almost **linear**, meaning each drink contributes evenly to the total bill.
+
+✔️ **Cost variation** due to differences in prices.
+
+✔️ **No major Outliers**, showing **consistent patterns** across most orders.
 
 
-
-
-
+---
 
 👉👉👉Check out more plots: Click [HERE]
 
 ### Pie chart: Total Sales by Order Location
 
+```
+# PIE Chart: Category vs. Total Cost
+discount_by_category = boba.groupby('Category')['Total Cost'].sum()
 
+# Create the pie chart
+plt.figure(figsize=(4, 4))
+plt.pie(
+    discount_by_category,
+    labels= discount_by_category.index,
+    autopct= '%1.1f%%',
+    startangle= 90
+)
 
+plt.title('Discount % by Category')
+plt.show()
+```
+📷📷📷
 
+✔️ **Cat. D** holds the majority share (54.0%), meaning it **contributes over half** of all discounts, followed by **Cat. C** (21.6%)
+
+✔️ **Cat. A** and **B** contribute the smallest shares (16.1% and 8.4%, respectively)
 
 
 👉👉👉Check out more plots: Click [HERE]
