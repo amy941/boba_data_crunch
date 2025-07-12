@@ -51,7 +51,7 @@ discount_category(25.75)
 discount_category(19.75)
 ```
 
-📷📷📷
+![if](https://github.com/user-attachments/assets/cc85f189-7d10-4146-a4c0-217a52d5b664)
 
 ✅ **Insights:** After running a few examples, Amy's code successfully provides the **matching categories based on the order cost**. The logic ensures that any **Order Cost is auto-evaluated** and consistently assigned to the **correct Category**, or marked as `No Discount` if it falls outside the discount thresholds.
 
@@ -80,7 +80,7 @@ reward_customer(6, discount_threshold=5, free_drink_threshold=10)   # 5% off
 reward_customer(3, discount_threshold=5, free_drink_threshold=10)   # None
 ```
 
-📷📷📷
+![if_1](https://github.com/user-attachments/assets/02515586-63c2-48f1-9290-b3b6f13e9182)
 
 ✅ **Insights:** After testing various scenarios, **Amy’s code correctly applies the reward logic**. Customers are automatically granted the right benefit based on their purchase quantity, ensuring a **fair and consistent reward** distribution.
   
@@ -116,7 +116,7 @@ while mins >= 0:
     sleep(1)
 ```
 
-📷📷📷
+![while](https://github.com/user-attachments/assets/039b681c-2947-4137-afaf-eadc4d8c9b05)
 
 ✅ **Insights:** **Amy’s countdown timer works** as intended, providing **timely reminders** and prompting users to **complete their orders** before the offer expires. The logic creates a simple yet effective user experience that encourages faster checkout.
 
@@ -151,7 +151,6 @@ def customer_feedback(score_list):
     print('😐 So-so:', neutral_scores)
     print('🤢 Bad:', negative_scores)
 ```
-📷📷📷
 
 ✅ **Insights:** Amy's system **efficiently categorizes customer feedback**. This allows the team to truly **understand what customers enjoy** and **fine-tune the next specialty** drink for an even better experience.
 
@@ -165,7 +164,12 @@ def customer_feedback(score_list):
 - She then applied `sort_values()` by **Qty** to find out the customer with the most orders.
 - Lastly, she sorted the data by **Price per Drink** to identify the most expensive drink.
 
-📷📷📷
+```
+# Most expensive drink(s)
+boba.sort_values(by='Price per Drink', ascending=False).head()
+```
+
+![expensive_drink](https://github.com/user-attachments/assets/6bd6e1c2-910c-491b-9c26-faac34e8694b)
 
 ✅ **Key Findings:**
 
@@ -193,7 +197,7 @@ boxplot1.set_title('Order Location vs. Total Cost')  # shows how Total Cost vari
 
 plt.show(boxplot1)
 ```
-📷📷📷
+![box_plot_1](https://github.com/user-attachments/assets/609c76ca-f4d7-428c-b6c4-87fe58fd5922)
 
 ✔️ **Beltline** & **Country Hills** have the **highest median** Total Cost (>30), meaning customers tend to **place bigger orders** in these locations.
 
@@ -228,12 +232,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-📷📷📷
-<p align="center">
-  <img src="images/boxplot1.png" width="45%" alt="Boxplot 1">
-  <img src="images/barplot1.png" width="45%" alt="Barplot 1">
-</p>
-
+![location](https://github.com/user-attachments/assets/65deed06-9d06-4b3c-9956-6e563c156dac)
 
 ✔️ **Panorama Hills** generates the **highest Revenue** (>700$), followed by **Saddle Ridge** (~500$)
 
@@ -261,7 +260,7 @@ plt.title('Quantity vs. Total Cost ($)')
 plt.show()
 ```
 
-📷📷📷
+![scatter_plot](https://github.com/user-attachments/assets/7e4f2068-853f-4d43-b00f-3ff87f3d4ed6)
 
 ✔️ Relationship between **Total Cost** and **Quantity** is almost **linear**, meaning each drink contributes evenly to the total bill.
 
@@ -292,7 +291,7 @@ plt.pie(
 plt.title('Discount % by Category')
 plt.show()
 ```
-📷📷📷
+![pie_chart](https://github.com/user-attachments/assets/635e55cd-df91-428f-a588-d96cfc0aefcd)
 
 ✔️ **Cat. D** holds the majority share (54.0%), meaning it **contributes over half** of all discounts, followed by **Cat. C** (21.6%)
 
