@@ -186,7 +186,7 @@ boba.sort_values(by='Price per Drink', ascending=False).head()
 
 ## 📊 2) Data Visualization: Amy was then asked to plot different data viz to gain visual understanding and insights.
 
-### Box plot: to show how Sales vary across locations.
+### 📉 Box plot: to show how Sales vary across locations.
 
 ```
 # Boxplot 1: Order Location vs. Total Cost
@@ -197,7 +197,7 @@ boxplot1.set_title('Order Location vs. Total Cost')  # shows how Total Cost vari
 
 plt.show(boxplot1)
 ```
-![box_plot_1](https://github.com/user-attachments/assets/609c76ca-f4d7-428c-b6c4-87fe58fd5922)
+![box_plot](https://github.com/user-attachments/assets/876bd3ac-b0d4-43b3-90db-0952a8f88c9e)
 
 ✔️ **Beltline** & **Country Hills** have the **highest median** Total Cost (>30), meaning customers tend to **place bigger orders** in these locations.
 
@@ -210,7 +210,7 @@ plt.show(boxplot1)
 
 ---
 
-### Bar charts: to determine the most profitable location and Top 5 best-selling drinks
+### 📉 Bar charts: to determine the most profitable location and Top 5 best-selling drinks
 
 ```
 # Bar plot: Order Location vs. Total Cost
@@ -232,7 +232,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-![location](https://github.com/user-attachments/assets/65deed06-9d06-4b3c-9956-6e563c156dac)
+![location](https://github.com/user-attachments/assets/1fcf6873-b174-42ae-9966-1dbf884fe662)
 
 ✔️ **Panorama Hills** generates the **highest Revenue** (>700$), followed by **Saddle Ridge** (~500$)
 
@@ -243,11 +243,11 @@ plt.show()
 ✔️ `Oolong MT` is the **best-selling beverage** while `Passion Fruit Tea` is the **least popular** one.
 
 
----
-
 👉👉👉Check out more plots: Click [HERE]
 
-### Scatter plot: `Qty` vs. `Total Cost`
+---
+
+### 📉 Scatter plot: `Qty` vs. `Total Cost`
 
 ```
 plt.figure(figsize=(8,6))
@@ -260,7 +260,7 @@ plt.title('Quantity vs. Total Cost ($)')
 plt.show()
 ```
 
-![scatter_plot](https://github.com/user-attachments/assets/7e4f2068-853f-4d43-b00f-3ff87f3d4ed6)
+![scatter](https://github.com/user-attachments/assets/9a70c15b-915b-469a-a544-2f4fc03ef393)
 
 ✔️ Relationship between **Total Cost** and **Quantity** is almost **linear**, meaning each drink contributes evenly to the total bill.
 
@@ -269,11 +269,11 @@ plt.show()
 ✔️ **No major Outliers**, showing **consistent patterns** across most orders.
 
 
----
-
 👉👉👉Check out more plots: Click [HERE]
 
-### Pie chart: Total Sales by Order Location
+---
+
+### 📉 Pie chart: Total Sales by Order Location
 
 ```
 # PIE Chart: Category vs. Total Cost
@@ -299,3 +299,7 @@ plt.show()
 
 
 👉👉👉Check out more plots: Click [HERE]
+
+
+# 📌 CONCLUSIONS
+.....................................................................
