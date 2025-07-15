@@ -13,10 +13,10 @@
 ---
 
 # 🧋INTRO
-This is **Part 2** of the Bubble Tea project where I built a **Quote Summary and Data Visualization** for `VieNa Tea House` using advanced Excel. 
+This is **Part 2** of the Bubble Tea project where I built a **Quote Summary** and **Data Visualization** for `VieNa Tea House` using advanced Excel. 
 
 The focus here is on **Customer Quote** section, covering: 
-  * **Order management** (location, description, quantity)
+  * **Order management** (location, order description, quantity)
   * **Pricing calculations** 
   * Uncovered key **order patterns**
 
@@ -32,7 +32,7 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 ## Sheets Overview
 📊**This data was recorded during the first 5 hours of operations at `VieNa Tea House`**
 
-- **Customer Quote:** Raw data of customer orders.
+- **Customer Quote:** Customer orders and prices.
 - **Price List:** Beverage prices and order descriptions for each customer.
 - **Discount Matrix:** Discount rates applied based on specific conditions.
 
