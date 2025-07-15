@@ -18,7 +18,7 @@ _At its core, this project is about using data to understand customer needs and 
 
 ## 📉2) Excel Advanced: [Advanced]()
 
-# 💭 Closing Thoughts
+# Closing Thoughts💭
 _The purpose of Boba Project is to transform real-world business scenarios into powerful insights._ 
 
 _By applying advanced Excel+Python, the data is presented in a clean, consistent, and more engaging format._
