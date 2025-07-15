@@ -83,7 +83,7 @@ Together, these perspectives demonstrate how small businesses can use data-drive
 ## 2) Data Visualization - PIVOT
 ## 🔗Link: [VLOOKUP_boba_project](https://github.com/amy941/boba_data_crunch/blob/main/2_Excel_Advanced_boba/VLOOKUP_boba_project.xlsx)
 
-![top_seller](https://github.com/user-attachments/assets/71450b69-2fc5-40be-9abf-1209184b4242)
+![top_seller](https://github.com/user-attachments/assets/6602eb06-1762-437e-924f-1753432934a8)
 
 _Pie chart showing Top 5 Best-sellers_
 
@@ -99,9 +99,9 @@ _Pie chart showing Top 5 Best-sellers_
 _Bar & Line Charts showing Top 5 customers with the highest total spending_
 
 - **Lucas Pham** and **Liam Nguyen** were the top spenders
-- **Ava Kim**, despite spending less overall, placed the highest number of orders **(12)**, suggesting smaller spending but more frequent purchases.
+- **Ava Kim** has the same number of orders as Lucas (11) but **spent less**, suggesting her drink choices were cheaper.
 - Spending (**Total Cost**) vs. Order Quantity (**Qty**) are **not strongly correlated**. Some customers placed fewer orders but spent more per order.
-- The pattern suggests a mix of **high-spend, low-frequency customers** (ex: Lucas Pham) and **frequent, moderate spenders** (ex: Ava Kim)
+- The pattern suggests a mix of **high-spend, low-frequency customers** (ex: Liam Nguyen) and **frequent, moderate spenders** (ex: Ava Kim)
 
 ---
 
