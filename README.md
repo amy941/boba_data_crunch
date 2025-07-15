@@ -26,6 +26,8 @@ _At its core, this project is about using data to understand customer needs and 
 - **Loops:** `while` loop & `for` loop
 - **Data Visualizations:** Graphs (Bar, Scatter plot, Pie) & Descriptive Summary
 
+---
+
 # Closing Thoughts💭
 _The purpose of Boba Project is to transform real-world business scenarios into powerful insights._ 
 
