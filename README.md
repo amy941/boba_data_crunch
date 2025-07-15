@@ -19,7 +19,7 @@ _At its core, this project is about using data to understand customer needs and 
 ## 📉2) Excel Advanced: [Advanced]()
 - **Nested functions:** `CHOOSE`, `VLOOKUP`, `INDEX-MATCH`
 - **Pivot:** Pivot tables/chart/slicers, trendlines, and forecasting
-- **Macros:**  Create, edit, and manage macros using VBA scripting.
+- **Macros:**  Create, edit, and manage macros using `VBA` scripting.
 
 ## 📉3) Python: [Python]()
 - **Conditional statements:** `IF/ELIF/ELSE`
