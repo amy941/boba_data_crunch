@@ -59,7 +59,7 @@ _Screenshot of the Final Summary worksheet showing performance grades, summary s
 ## 🔗Link: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Track customer no-shows by counting missed drink pickups across 4 terms.
-- **Skills:** Consolidation || Sort & Filter || Conditional Formatting
+- **Skills:** `Consolidation`, `Sort & Filter`, `Conditional Formatting`
 
 ## ✨Hightlights
 - **Consolidation Tool** used to merge data from ```Missed Term 1``` to ```Missed Term 4```
@@ -83,7 +83,7 @@ _Screenshot of the Missed Orders worksheet displaying consolidated no-show data 
 ## 🔗Link: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Transform raw customer data into a clean format and analyze individual barista performance.
-- **Skills:** Text functions || Nested formulas || Conditional functions || Sparklines || Structured Tables
+- **Skills:** `Text functions`, `Nested formulas`, `Conditional functions`, `Sparklines`, `Structured Tables`
 
 ## ✨Hightlights
 
@@ -92,17 +92,11 @@ _Screenshot of the Missed Orders worksheet displaying consolidated no-show data 
 _Screenshot of the Customer Report worksheet, showing "cleaned" customer records using Text functions._
 
 - **Text Functions** to format data:
-  * Full Name (e.g., Ava Hoang)
+  * **Full Name** (e.g., Ava Hoang) ➡️ `=PROPER(CONCAT(B4," ",C4))`
     
-    ```=PROPER(CONCAT(B4," ",C4))```
+  * **Email Address** (e.g., ahoang@bbt.com)  ➡️ `=LOWER(CONCAT(LEFT(B4,1),C4,"@bbt.com"))`
     
-  * **Email Address** (e.g., ahoang@bbt.com)
-    
-    ```=LOWER(CONCAT(LEFT(B4,1),C4,"@bbt.com"))```
-    
-  * **ID tags** (e.g., 2015-001)
-
-    ```=CONCAT(2015,"-",RIGHT(A4,3))```
+  * **ID tags** (e.g., 2015-001) ➡️ `=CONCAT(2015,"-",RIGHT(A4,3))`
 
 
 ---
@@ -140,19 +134,12 @@ _Screenshot of the Customer Report worksheet, showing missed orders and total fe
 ## 🔗Link: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Use pivot tables and charts to analyze barista performance by grade and year, identify patterns, and forecast future results.
-- **Skills:** Pivot Tables,Charts,Slicers || Percentage of column total || Data filtering || Trendline analysis, R-squared, and forecasting
+- **Skills:** `Pivot Tables/Charts/Slicers`, `Percentage of Column Total`, `Data filtering`, `Trendline analysis`, `R-squared`, and `forecasting`
     
 ## ✨Hightlights
-- First **Pivot Table** for Grade Distribution:
-  * **Row Labels:** Grade || **Column Labels:** Barista || **Values:** Count of Grade (shown as % of column total)
-
-- Second **Pivot Table** for Yearly Performance Trend:
-  * Shows **average final performance scores by year**, filtered only shows **Barista Amy**
-  
+- **First** Pivot Table for Grade Distribution.
+- **Second** Pivot Table for Yearly Performance Trend.  
 - **Clustered Column Pivot Chart** with Trendlines:
-  * **Linear** and **Polynomial** trendlines
-  * **R-squared** values to assess model fit
-
 - **Pivot Slicers** were added for **Full Name** of customer, **Barista**, and **Grade**.
 - A **Clustered Column Pivot Chart** shows barista performance over time in Linear & Polynomial trendlines.
 
@@ -195,8 +182,8 @@ _Slicers were filtered to show Barista Amy's individual trend._
 ---
 
 # 📌CONCLUSIONS
-✔️ Barista **Amy’s** performance consistently improved from 86 (2023) to 89 (2024), with a 2025 forecast of 91, showing strong **growth potential**.
+✔️ Barista **Amy’s** performance consistently improved **from 86** (2023) **to 89** (2024), with a **2025 forecast of 91**, showing strong **growth potential**.
 
-✔️ **Polynomial trendline** (R² = 1) indicates strong predictability and reliability in performance trends.
+✔️ **Polynomial trendline** (R² = 1) indicates strong **predictability** and **reliability** in performance trends.
 
 ✔️ Fee collection and missed orders remain rooms for improvement, with **$1,205 outstanding fees** and **100 missed orders** overall.
