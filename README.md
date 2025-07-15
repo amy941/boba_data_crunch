@@ -10,16 +10,21 @@ _At its core, this project is about using data to understand customer needs and 
 
 ## 📉1) Excel Intermediate: [Intermediate ](https://github.com/amy941/boba_data_crunch/tree/main/1_Excel_Intermediate_boba)
 - **Multiple worksheets:** 3D formulas, linking, and consolidating.
-- **Text functions:** ```CONCAT```, ```UPPER```, ```LOWER```, ```PROPER```, ```LEFT```, ```RIGHT```, ```MID```,...
+- **Text functions:** `CONCAT`, `UPPER`, `LOWER`, `PROPER`, `LEFT`, `RIGHT`, `MID`,...
 - **Name Ranges**
-- **Conditional functions:** ```COUNT```, ```COUNTIFS```, ```SUMIFS```,...
+- **Conditional functions:** `COUNT`, `COUNTIFS`, `SUMIFS`,...
 - **Create Tables, Sort & Filter, Sparklines**
 - **Pivot:** Pivot tables/chart/slicers
 
 ## 📉2) Excel Advanced: [Advanced]()
-
+- **Nested functions:** `CHOOSE`, `VLOOKUP`, `INDEX-MATCH`
+- **Pivot:** Pivot tables/chart/slicers, trendlines, and forecasting
+- **Macros:**  Create, edit, and manage macros using VBA scripting.
 
 ## 📉3) Python: [Python]()
+- **Conditional statements:** IF/ELIF/ELSE
+- **Loops:** `While` loop & `For` loop
+- **Data Visualizations:** Graphs (Bar, Scatter plot, Pie) & Descriptive Summary
 
 # Closing Thoughts💭
 _The purpose of Boba Project is to transform real-world business scenarios into powerful insights._ 
