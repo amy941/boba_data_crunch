@@ -1,5 +1,5 @@
 # 📚TABLE OF CONTENTS
-- [🧋 Intro](#intro)
+- [🧋 INTRO](#intro)
 - [1️⃣ Final Summary worksheet](#1_final-summary-worksheet)
 - [2️⃣ Missed Order worksheet](#2_missed-order-worksheet)
 - [3️⃣ Customer Report worksheet](#3_customer-report-worksheet)
