@@ -22,8 +22,8 @@ _At its core, this project is about using data to understand customer needs and 
 - **Macros:**  Create, edit, and manage macros using VBA scripting.
 
 ## 📉3) Python: [Python]()
-- **Conditional statements:** IF/ELIF/ELSE
-- **Loops:** `While` loop & `For` loop
+- **Conditional statements:** `IF/ELIF/ELSE`
+- **Loops:** `while` loop & `for` loop
 - **Data Visualizations:** Graphs (Bar, Scatter plot, Pie) & Descriptive Summary
 
 # Closing Thoughts💭
