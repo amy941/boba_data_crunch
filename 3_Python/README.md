@@ -182,6 +182,8 @@ boba.sort_values(by='Price per Drink', ascending=False).head()
 ✔️ `Brown Sugar MT` and `Avocado Slush` are the **most costly drinks**
   
 
+👉👉👉For more information: Click [HERE]
+
 ---
 
 ## 📊 2) Data Visualization: Amy was then asked to plot different data viz to gain visual understanding and insights.
@@ -210,7 +212,7 @@ plt.show(boxplot1)
 
 ---
 
-### 📉 Bar charts: to determine the most profitable location and Top 5 best-selling drinks
+### 📉 Bar charts: to determine the most profitable location and Top 5 Best-selling drinks
 
 ```
 # Bar plot: Order Location vs. Total Cost
