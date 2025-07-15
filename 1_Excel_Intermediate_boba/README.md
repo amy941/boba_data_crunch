@@ -9,7 +9,7 @@
 ---
 
 # 🧋INTRO
-- **INTERMEDIATE EXCEL:** 3D formulas, nested functions, sparklines, conditional formatting, pivot tables/charts/slicers, and forecasting.
+- **INTERMEDIATE EXCEL:** `3D formulas`, `nested functions`, `sparklines`, `conditional formatting`, `pivot tables/charts/slicers`, and `forecasting`.
 
 ## Resources
 👉 Click HERE: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
@@ -17,7 +17,7 @@
 👉 Click HERE: [raw_data](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_raw%20(official).xlsx)
 
 ## Sheets Overview
-This project includes **12 color-coded worksheets**, each serving a specific purpose:
+This Excel includes **12 color-coded worksheets**, each serving a specific purpose:
   * **Orders Term 1–4:** Raw scores & ratings
   * **Final Summary:** Aggregated scores, grades, and insights
   * **PIVOT:** Grade breakdowns & forecasts
@@ -32,7 +32,7 @@ Color-coded tabs guide the workflow
 ## 🔗Link: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
 - **Purpose:** Customer feedback for barista performance across four terms and sugar/ice preferences.
-- **Skills:** 3D-Formulas || Linking worksheets || Named Ranges || Text functions
+- **Skills:** `3D-Formulas`, `Linking worksheets`, `Named Ranges`, `Text functions`
 
 ## ✨Hightlights
 - **3D-formulas:** to calc. average scores across Term 1-4
