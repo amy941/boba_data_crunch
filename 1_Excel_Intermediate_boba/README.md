@@ -4,7 +4,7 @@
 - [2️⃣ Missed Order worksheet](#2_missed-order-worksheet)
 - [3️⃣ Customer Report worksheet](#3_customer-report-worksheet)
 - [4️⃣ Pivot Analysis worksheet](#4_pivot-worksheet)
-- [💭 Closing Thoughts](#closing-thoughts)
+- [📌 CONCLUSIONS](#conclusions)
 
 ---
 
@@ -194,7 +194,7 @@ _Slicers were filtered to show Barista Amy's individual trend._
 
 ---
 
-# 💭CONCLUSIONS
+# 📌CONCLUSIONS
 ✔️ Barista **Amy’s** performance consistently improved from 86 (2023) to 89 (2024), with a 2025 forecast of 91, showing strong **growth potential**.
 
 ✔️ **Polynomial trendline** (R² = 1) indicates strong predictability and reliability in performance trends.
