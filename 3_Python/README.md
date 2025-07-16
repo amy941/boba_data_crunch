@@ -8,11 +8,11 @@ This is **Part 3** of the Bubble Tea project where I applied **Python libraries*
 
 The focus here is on:
 
-✅ **Conditional statements:** IF/ELIF/ELSE
+✅ **Conditional statements:** `IF/ELIF/ELSE`
 
-✅ **Loops:** WHILE loop & FOR loop
+✅ **Loops:** `WHILE` loop & `FOR` loop
 
-✅ **Data Visualizations:** Graphs (Bar, Scatter Plot, Pie) and descriptive summary
+✅ **Data Visualizations:** `Graphs` (Bar, Scatter Plot, Pie) and `descriptive summary`
 
 ## Resources
 👉**Click HERE:**
