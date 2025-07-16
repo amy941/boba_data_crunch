@@ -136,10 +136,6 @@ _Vertical bar chart with trendlines showing Total Revenue by Category_
 - **Purpose:** Create basic macros to automate repetitive tasks.
 - **Skills:** Create, edit, and manage macros efficiently.
   
-👉 Click HERE: [Advanced_Excel_boba]()
-
-👉 Click HERE: [raw_data]()
-
 ## 1) **Create "New Weekly Sales Sheet" Button** 
   
 ![button](https://github.com/user-attachments/assets/d01e42bb-9fdb-4af2-93b6-f4bcd0a00693)
