@@ -16,12 +16,12 @@ _At its core, this project is about using data to understand customer needs and 
 - **Create Tables, Sort & Filter, Sparklines**
 - **Pivot:** Pivot tables/chart/slicers
 
-## 📉2) Excel Advanced: [Advanced]()
+## 📉2) Excel Advanced: [Advanced](https://github.com/amy941/boba_data_crunch/tree/main/2_Excel_Advanced_boba)
 - **Nested functions:** `CHOOSE`, `VLOOKUP`, `INDEX-MATCH`
 - **Pivot:** Pivot tables/chart/slicers, trendlines, and forecasting
 - **Macros:**  Create, edit, and manage macros using `VBA` scripting.
 
-## 📉3) Python: [Python]()
+## 📉3) Python: [Python](https://github.com/amy941/boba_data_crunch/tree/main/3_Python)
 - **Conditional statements:** `IF/ELIF/ELSE`
 - **Loops:** `while` loop & `for` loop
 - **Data Visualizations:** Graphs (Bar, Scatter plot, Pie) & Descriptive Summary
