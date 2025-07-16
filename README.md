@@ -24,7 +24,7 @@ _At its core, this project is about using data to understand customer needs and 
 ## 📉3) Python: [Python](https://github.com/amy941/boba_data_crunch/tree/main/3_Python)
 - **Conditional statements:** `IF/ELIF/ELSE`
 - **Loops:** `while` loop & `for` loop
-- **Data Visualizations:** Graphs (Bar, Scatter plot, Pie) & Descriptive Summary
+- **Data Visualization:** Graphs (Bar, Scatter plot, Pie) & Descriptive Summary
 
 ---
 
