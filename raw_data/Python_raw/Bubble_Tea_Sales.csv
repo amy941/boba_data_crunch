@@ -1,0 +1,101 @@
+Customer ID,Customer Name,Location Code,Order Location,Qty,Short Order Description,Price per Drink,Order Price,Category,Discount,Total Cost
+CUST0001,Ava Hoang,1,Saddle Ridge,1,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,7.75,A,0.095,7.01375
+CUST0002,Liam Pham,1,Saddle Ridge,1,"Mango GT, Lychee, 70%, 100%",6.75,6.75,A,0.095,6.10875
+CUST0003,Aiden Wong,1,Saddle Ridge,3,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,23.25,C,0.115,20.57625
+CUST0004,Liam Kim,1,Saddle Ridge,5,"Oolong MT, Pearl, 50%, 30%",6.25,31.25,D,0.125,27.34375
+CUST0005,Lucas Choi,1,Saddle Ridge,6,"Mango GT, Lychee, 70%, 100%",6.75,40.5,D,0.125,35.4375
+CUST0006,Ethan Tran,1,Saddle Ridge,7,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,52.5,D,0.125,45.9375
+CUST0007,Liam Wong,1,Saddle Ridge,1,"Passion Tea, 2x Pearl, 100%, 0%",7.25,7.25,A,0.095,6.56125
+CUST0008,Emma Pham,1,Saddle Ridge,1,"Grape Yakult, Aloe, 50%, 30%",7.25,7.25,A,0.095,6.56125
+CUST0009,Aiden Pham,2,Panorama Hills,5,"Mango GT, Cheese Foam, 70%, 30%",7,35,D,0.125,30.625
+CUST0010,Lucas Wong,2,Panorama Hills,1,"Mango GT, Lychee, 70%, 100%",6.75,6.75,A,0.095,6.10875
+CUST0011,Emma Nguyen,2,Panorama Hills,3,"Passion Tea, 2x Pearl, 100%, 0%",7.25,21.75,C,0.115,19.24875
+CUST0012,Ava Hoang,2,Panorama Hills,3,"Avocado, Crystal Boba, 30%",8,24,C,0.115,21.24
+CUST0013,Luna Pham,2,Panorama Hills,1,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,7.75,A,0.095,7.01375
+CUST0014,Mia Nguyen,2,Panorama Hills,3,"Mango GT, Lychee, 70%, 100%",6.75,20.25,B,0.105,18.12375
+CUST0015,Aiden Lin,2,Panorama Hills,2,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,15,A,0.095,13.575
+CUST0016,Aiden Chen,2,Panorama Hills,2,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,15.5,B,0.105,13.8725
+CUST0017,Ava Tran,2,Panorama Hills,4,"Oolong MT, Pearl, 50%, 30%",6.25,25,C,0.115,22.125
+CUST0018,Noah Choi,2,Panorama Hills,2,"Oolong MT, Pearl, 50%, 30%",6.25,12.5,A,0.095,11.3125
+CUST0019,Olivia Lee,3,Beltline,6,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,45,D,0.125,39.375
+CUST0020,Noah Chen,3,Beltline,5,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,38.75,D,0.125,33.90625
+CUST0021,Noah Wong,3,Beltline,5,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,37.5,D,0.125,32.8125
+CUST0022,Mia Choi,3,Beltline,1,"Oolong MT, Pearl, 50%, 30%",6.25,6.25,A,0.095,5.65625
+CUST0023,Mia Chen,3,Beltline,2,"Thai MT, Pearl, 70%, 100%",6.25,12.5,A,0.095,11.3125
+CUST0024,Emma Chen,4,Country Hills,4,"Passion GT, Pop Lychee, 50%, 30%",6.75,27,C,0.115,23.895
+CUST0025,Mia Tran,4,Country Hills,5,"Honeydew Smth, Coco Jelly, 100%, 120%",7.25,36.25,D,0.125,31.71875
+CUST0026,Luna Hoang,4,Country Hills,5,"Grape Yakult, Aloe, 50%, 30%",7.25,36.25,D,0.125,31.71875
+CUST0027,Liam Nguyen,4,Country Hills,6,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,45,D,0.125,39.375
+CUST0028,Lucas Hoang,5,Brentwood,2,"Oolong MT, Pearl, 50%, 30%",6.25,12.5,A,0.095,11.3125
+CUST0029,Lucas Pham,5,Brentwood,5,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,38.75,D,0.125,33.90625
+CUST0030,Aiden Lin,5,Brentwood,1,"Passion Tea, 2x Pearl, 100%, 0%",7.25,7.25,A,0.095,6.56125
+CUST0031,Emma Hoang,2,Panorama Hills,3,"Passion Tea, 2x Pearl, 100%, 0%",7.25,21.75,C,0.115,19.24875
+CUST0032,Emma Pham,2,Panorama Hills,4,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,30,C,0.115,26.55
+CUST0033,Liam Nguyen,2,Panorama Hills,4,"Oolong MT, Pearl, 50%, 30%",6.25,25,C,0.115,22.125
+CUST0034,Noah Wong,2,Panorama Hills,2,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,15.5,B,0.105,13.8725
+CUST0035,Ethan Nguyen,2,Panorama Hills,4,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,30,C,0.115,26.55
+CUST0036,Lucas Lee,2,Panorama Hills,3,"Oolong MT, Pearl, 50%, 30%",6.25,18.75,B,0.105,16.78125
+CUST0037,Emma Pham,2,Panorama Hills,2,"Avocado, Crystal Boba, 30%",8,16,B,0.105,14.32
+CUST0038,Olivia Chen,2,Panorama Hills,4,"Peach Oolong, Aloe, 30%, 30%",6.5,26,C,0.115,23.01
+CUST0039,Noah Choi,2,Panorama Hills,5,"Roasted MT, Coffee Jelly, 100%, 0%",6.5,32.5,D,0.125,28.4375
+CUST0040,Ava Nguyen,2,Panorama Hills,4,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,31,D,0.125,27.125
+CUST0041,Ethan Pham,4,Country Hills,4,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,30,C,0.115,26.55
+CUST0042,Aiden Choi,4,Country Hills,2,"Passion Tea, 2x Pearl, 100%, 0%",7.25,14.5,A,0.095,13.1225
+CUST0043,Olivia Hoang,4,Country Hills,6,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,46.5,D,0.125,40.6875
+CUST0044,Luna Kim,4,Country Hills,1,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,7.5,A,0.095,6.7875
+CUST0045,Noah Pham,5,Brentwood,1,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,7.5,A,0.095,6.7875
+CUST0046,Lucas Pham,5,Brentwood,2,"Choco MT, Oreo, 80%, 100%",6.5,13,A,0.095,11.765
+CUST0047,Luna Tran,5,Brentwood,5,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,38.75,D,0.125,33.90625
+CUST0048,Mia Choi,1,Saddle Ridge,4,"Avocado, Crystal Boba, 30%",8,32,D,0.125,28
+CUST0049,Aiden Chen,1,Saddle Ridge,6,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,45,D,0.125,39.375
+CUST0050,Aiden Lee,1,Saddle Ridge,6,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,45,D,0.125,39.375
+CUST0051,Lucas Pham,1,Saddle Ridge,5,"Oolong MT, Pearl, 50%, 30%",6.25,31.25,D,0.125,27.34375
+CUST0052,Luna Choi,1,Saddle Ridge,2,"Avocado, Crystal Boba, 30%",8,16,B,0.105,14.32
+CUST0053,Emma Nguyen,5,Brentwood,1,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,7.75,A,0.095,7.01375
+CUST0054,Aiden Hoang,5,Brentwood,6,"Oolong MT, Pearl, 50%, 30%",6.25,37.5,D,0.125,32.8125
+CUST0055,Aiden Nguyen,5,Brentwood,2,"Mango GT, Lychee, 70%, 100%",6.75,13.5,A,0.095,12.2175
+CUST0056,Liam Nguyen,5,Brentwood,1,"Passion Tea, 2x Pearl, 100%, 0%",7.25,7.25,A,0.095,6.56125
+CUST0057,Luna Hoang,5,Brentwood,2,"Passion Tea, 2x Pearl, 100%, 0%",7.25,14.5,A,0.095,13.1225
+CUST0058,Lucas Hoang,5,Brentwood,5,"Oolong MT, Pearl, 50%, 30%",6.25,31.25,D,0.125,27.34375
+CUST0059,Luna Lin,5,Brentwood,5,"Passion Tea, 2x Pearl, 100%, 0%",7.25,36.25,D,0.125,31.71875
+CUST0060,Aiden Nguyen,2,Panorama Hills,3,"Passion Tea, 2x Pearl, 100%, 0%",7.25,21.75,C,0.115,19.24875
+CUST0061,Luna Hoang,2,Panorama Hills,3,"Oolong MT, Pearl, 50%, 30%",6.25,18.75,B,0.105,16.78125
+CUST0062,Mia Lin,2,Panorama Hills,4,"Mango GT, Lychee, 70%, 100%",6.75,27,C,0.115,23.895
+CUST0063,Ethan Lee,2,Panorama Hills,1,"Passion Tea, 2x Pearl, 100%, 0%",7.25,7.25,A,0.095,6.56125
+CUST0064,Aiden Kim,2,Panorama Hills,2,"Mango GT, Lychee, 70%, 100%",6.75,13.5,A,0.095,12.2175
+CUST0065,Emma Lee,2,Panorama Hills,6,"Avocado, Crystal Boba, 30%",8,48,D,0.125,42
+CUST0066,Ethan Choi,2,Panorama Hills,2,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,15,A,0.095,13.575
+CUST0067,Luna Wong,3,Beltline,3,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,23.25,C,0.115,20.57625
+CUST0068,Ethan Kim,3,Beltline,6,"Oolong MT, Pearl, 50%, 30%",6.25,37.5,D,0.125,32.8125
+CUST0069,Emma Tran,3,Beltline,4,"Passion Tea, 2x Pearl, 100%, 0%",7.25,29,C,0.115,25.665
+CUST0070,Luna Nguyen,1,Saddle Ridge,2,"Oolong MT, Pearl, 50%, 30%",6.25,12.5,A,0.095,11.3125
+CUST0071,Luna Chen,1,Saddle Ridge,5,"Passion Tea, 2x Pearl, 100%, 0%",7.25,36.25,D,0.125,31.71875
+CUST0072,Luna Kim,1,Saddle Ridge,6,"Passion GT, Pop Lychee, 50%, 30%",6.75,40.5,D,0.125,35.4375
+CUST0073,Luna Lin,1,Saddle Ridge,3,"Brown Sugar, Pudding, 0%, 30%",8.25,24.75,C,0.115,21.90375
+CUST0074,Noah Lee,1,Saddle Ridge,3,"Choco MT, Oreo, 80%, 100%",6.5,19.5,B,0.105,17.4525
+CUST0075,Liam Lee,1,Saddle Ridge,6,"Passion Tea, 2x Pearl, 100%, 0%",7.25,43.5,D,0.125,38.0625
+CUST0076,Noah Lin,1,Saddle Ridge,2,"Mango GT, Lychee, 70%, 100%",6.75,13.5,A,0.095,12.2175
+CUST0077,Emma Hoang,1,Saddle Ridge,2,"Avocado, Crystal Boba, 30%",8,16,B,0.105,14.32
+CUST0078,Ethan Tran,2,Panorama Hills,1,"Mango GT, Lychee, 70%, 100%",6.75,6.75,A,0.095,6.10875
+CUST0079,Luna Wong,2,Panorama Hills,1,"Avocado, Crystal Boba, 30%",8,8,A,0.095,7.24
+CUST0080,Olivia Kim,2,Panorama Hills,5,"Mango GT, Lychee, 70%, 100%",6.75,33.75,D,0.125,29.53125
+CUST0081,Olivia Pham,2,Panorama Hills,3,"Matcha Latte, Grass Jelly, 30%, 0%",7.75,23.25,C,0.115,20.57625
+CUST0082,Mia Tran,2,Panorama Hills,2,"Honeydew Smth, Coco Jelly, 100%, 120%",7.25,14.5,A,0.095,13.1225
+CUST0083,Ethan Lin,2,Panorama Hills,6,"Thai MT, Pearl, 70%, 100%",6.25,37.5,D,0.125,32.8125
+CUST0084,Ethan Lin,2,Panorama Hills,4,"Mango GT, Lychee, 70%, 100%",6.75,27,C,0.115,23.895
+CUST0085,Olivia Hoang,2,Panorama Hills,2,"Mango GT, Lychee, 70%, 100%",6.75,13.5,A,0.095,12.2175
+CUST0086,Olivia Kim,2,Panorama Hills,6,"Oolong MT, Pearl, 50%, 30%",6.25,37.5,D,0.125,32.8125
+CUST0087,Ethan Pham,2,Panorama Hills,2,"Avocado, Crystal Boba, 30%",8,16,B,0.105,14.32
+CUST0088,Ava Kim,3,Beltline,6,"Wintermelon MT, White Pearl, 50%, 30%",6.5,39,D,0.125,34.125
+CUST0089,Ava Kim,3,Beltline,6,"Oolong MT, Pearl, 50%, 30%",6.25,37.5,D,0.125,32.8125
+CUST0090,Ava Hoang,3,Beltline,6,"Oolong MT, Pearl, 50%, 30%",6.25,37.5,D,0.125,32.8125
+CUST0091,Olivia Choi,5,Brentwood,1,"Grape Yakult, Aloe, 50%, 30%",7.25,7.25,A,0.095,6.56125
+CUST0092,Mia Tran,5,Brentwood,2,"Oolong MT, Pearl, 50%, 30%",6.25,12.5,A,0.095,11.3125
+CUST0093,Ethan Wong,5,Brentwood,1,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,7.5,A,0.095,6.7875
+CUST0094,Ava Wong,5,Brentwood,3,"Mango GT, Lychee, 70%, 100%",6.75,20.25,B,0.105,18.12375
+CUST0095,Ethan Pham,5,Brentwood,3,"Grape Yakult, Aloe, 50%, 30%",7.25,21.75,C,0.115,19.24875
+CUST0096,Lucas Wong,2,Panorama Hills,3,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,22.5,C,0.115,19.9125
+CUST0097,Noah Tran,2,Panorama Hills,2,"Oolong MT, Pearl, 50%, 30%",6.25,12.5,A,0.095,11.3125
+CUST0098,Noah Lee,1,Saddle Ridge,1,"Straw Yog Slush, Pop Boba, 0%, 30%",7.5,7.5,A,0.095,6.7875
+CUST0099,Liam Wong,1,Saddle Ridge,2,"Wintermelon MT, White Pearl, 50%, 30%",6.5,13,A,0.095,11.765
+CUST0100,Ethan Choi,1,Saddle Ridge,1,"Oolong MT, Pearl, 50%, 30%",6.25,6.25,A,0.095,5.65625
