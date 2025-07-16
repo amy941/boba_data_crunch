@@ -1,6 +1,13 @@
 # 📚TABLE OF CONTENTS
 
+- [🧋 INTRO](#intro)
+    
+- [📉 1_If/Elif/Else](#1_if-elif-else)
+  
+- [📉 2_While loop and For loop](#2_while-loop-and-for-loop)
 
+
+- [📌 CONCLUSIONS](#conclusions)
 ---
 
 # 🧋INTRO
