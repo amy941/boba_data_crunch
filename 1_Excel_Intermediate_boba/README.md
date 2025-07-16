@@ -14,7 +14,7 @@
 ## Resources
 👉 Click HERE: [Intermediate_Excel_boba](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_project.xlsx)
 
-👉 Click HERE: [raw_data](https://github.com/amy941/boba_data_crunch/blob/main/1_Excel_Intermediate_boba/Intermediate_BubbleTea_raw%20(official).xlsx)
+👉 Click HERE: [raw_data](https://github.com/amy941/boba_data_crunch/tree/main/raw_data/Intermediate_raw)
 
 ## Sheets Overview
 This Excel includes **12 color-coded worksheets**, each serving a specific purpose:
