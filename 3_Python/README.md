@@ -53,7 +53,7 @@ discount_category(19.75)
 
 ![if](https://github.com/user-attachments/assets/cc85f189-7d10-4146-a4c0-217a52d5b664)
 
-✅ **Insights:** After running a few examples, Amy's code successfully provides the **matching categories based on the order cost**. The logic ensures that any **Order Cost is auto-evaluated** and consistently assigned to the **correct Category**, or marked as `No Discount` if it falls outside the discount thresholds.
+✅ **Insights:** After running a few examples, Amy's code **correctly assigns the right discount category** based on order cost. The logic **automatically evaluates** the order amount - either matches it to the **proper Category** or marks it as `No Discount` if it doesn't meet any threshold.
 
 ---
 
@@ -82,7 +82,7 @@ reward_customer(3, discount_threshold=5, free_drink_threshold=10)   # None
 
 ![if_1](https://github.com/user-attachments/assets/02515586-63c2-48f1-9290-b3b6f13e9182)
 
-✅ **Insights:** After testing various scenarios, **Amy’s code correctly applies the reward logic**. Customers are automatically granted the right benefit based on their purchase quantity, ensuring a **fair and consistent reward** distribution.
+✅ **Insights:** After testing various scenarios, **Amy’s code correctly applies the reward logic**. Customers are automatically granted the right benefit based on their purchase quantity, making the process **fair and consistent.**
   
 ---
 
@@ -118,7 +118,7 @@ while mins >= 0:
 
 ![while](https://github.com/user-attachments/assets/039b681c-2947-4137-afaf-eadc4d8c9b05)
 
-✅ **Insights:** **Amy’s countdown timer works** as intended, providing **timely reminders** and prompting users to **complete their orders** before the offer expires. The logic creates a simple yet effective user experience that encourages faster checkout.
+✅ **Insights:** **Amy’s countdown timer works** as intended, providing **timely reminders** and prompting users to **complete their orders** before the offer expires. The logic creates a simple yet effective experience that encourages faster checkout.
 
 ---
 
@@ -179,7 +179,7 @@ boba.sort_values(by='Price per Drink', ascending=False).head()
 
 ✔️ **Ethan Tran** ranked first with **7 orders**, followed by Olivia Hoang and Ethan Kim.
 
-✔️ `Brown Sugar MT` is the **most costly drinks**, second is `Avocado Slush`.
+✔️ `Brown Sugar MT` is the **most costly drink**, second is `Avocado Slush`.
   
 
 👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
@@ -201,11 +201,11 @@ plt.show(boxplot1)
 ```
 ![box_plot](https://github.com/user-attachments/assets/876bd3ac-b0d4-43b3-90db-0952a8f88c9e)
 
-✔️ **Beltline** & **Country Hills** have the **highest median** Total Cost (>30), meaning customers tend to **place bigger orders** in these locations.
+✔️ **Beltline** & **Country Hills** have the **highest median** Total Cost (>30), meaning customers tend to **place bigger orders** at these locations.
 
-✔️ **Saddle Ridge** & **Panorama Hills** show a **average median** (~20), suggesting **moderate spending** per order.
+✔️ **Saddle Ridge** & **Panorama Hills** fall around the **mid-range median** (~20), suggesting **moderate spending** per order.
 
-✔️ **Brentwood** has the **lowest median** (~12), showing **customers spend less** per order in this area.
+✔️ **Brentwood** shows the **lowest median** (~12), reflecting **customers spend less** per visit.
 
 
 👉👉👉For more plots: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
@@ -268,7 +268,7 @@ plt.show()
 
 ✔️ **Cost variation** due to differences in prices.
 
-✔️ **No major Outliers**, showing **consistent patterns** across most orders.
+✔️ **No major Outliers**, showing **consistent ordering patterns.**
 
 
 👉👉👉For more plots: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
@@ -304,4 +304,8 @@ plt.show()
 
 
 # 📌 CONCLUSIONS
-.....................................................................
+✔️ `Brown Sugar MT` and `Oolong MT` **drive the most sales**, serving as the best-selling and the most expensive drink in the store.
+
+✔️ `Panorama Hills` and `Saddle Ridge` are **the most profitable locations**.
+
+✔️ **Discounts are unevenly distributed** with Category D accounting for over half of all discounts.
