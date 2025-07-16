@@ -12,7 +12,7 @@ The focus here is on:
 
 ✅ **Loops:** `WHILE` loop & `FOR` loop
 
-✅ **Data Visualizations:** `Graphs` (Bar, Scatter Plot, Pie) and `descriptive summary`
+✅ **Data Visualization:** `Graphs` (Bar, Scatter Plot, Pie) and `descriptive summary`
 
 ## Resources
 👉**Click HERE:**
