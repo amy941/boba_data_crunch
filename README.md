@@ -2,7 +2,7 @@
 
 **Because cravings lead to curiosity.**
 
-_What starts as a simple tea order turns into a journey through advanced Excel + Python_ 
+_I turned my obsession with bubble tea into a data project using advanced Excel + Python_ 
 
 _At its core, this project is about using data to understand customer needs and drive smarter business decisions._
 
