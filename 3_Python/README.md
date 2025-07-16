@@ -29,7 +29,7 @@ The focus here is on:
 
 ## **Problem 1:** Amy is a data professional for `VieNa Tea House`. Her task is to leverage Sales Summary data to categorize discounts based on order cost ranges.
 
-✅ **Solution:** Using `def` function & conditional statments `IF/ELIF` to automate this process.
+✅ **Solution:** Using `def` function & conditional statements `IF/ELIF` to automate this process.
 
 ```
 def discount_category (order_cost):
@@ -152,7 +152,7 @@ def customer_feedback(score_list):
     print('🤢 Bad:', negative_scores)
 ```
 
-✅ **Insights:** Amy's system **efficiently categorizes customer feedback**. This allows the team to truly **understand what customers enjoy** and **fine-tune the next specialty** drink for an even better experience.
+✅ **Insights:** Amy's system **efficiently categorizes customer feedback**. This allows the team to truly **understand what customers enjoy**, then **fine-tune the next specialty** for an even better experience.
 
 ---
 
@@ -161,7 +161,7 @@ def customer_feedback(score_list):
 
 ## 📝 1) Descriptive Summary: Amy was asked to conduct `exploratory data analysis (EDA)` on the Sales data.
 - She used **methods** and **attributes** such as `head()`, `.shape`, `.dtypes`, `.drop_duplicates()` to study and clean the CSV raw data.
-- She then applied `sort_values()` by **Qty** to find out the customer with the most orders.
+- She then applied `sort_values()` by **Qty** to find out the customer(s) with the most orders.
 - Lastly, she sorted the data by **Price per Drink** to identify the most expensive drink.
 
 ```
@@ -179,14 +179,14 @@ boba.sort_values(by='Price per Drink', ascending=False).head()
 
 ✔️ **Ethan Tran** ranked first with **7 orders**, followed by Olivia Hoang and Ethan Kim.
 
-✔️ `Brown Sugar MT` and `Avocado Slush` are the **most costly drinks**
+✔️ `Brown Sugar MT` is the **most costly drinks**, second is `Avocado Slush`.
   
 
 👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 ---
 
-## 📊 2) Data Visualization: Amy was then asked to plot different data viz to gain visual understanding and insights.
+## 📊 2) Data Visualization: Amy was then asked to plot different data visualizations to gain a visual understanding and key insights.
 
 ### 📉 Box plot: to show how Sales vary across locations.
 
@@ -208,7 +208,7 @@ plt.show(boxplot1)
 ✔️ **Brentwood** has the **lowest median** (~12), showing **customers spend less** per order in this area.
 
 
-👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
+👉👉👉For more plots: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 ---
 
@@ -245,7 +245,7 @@ plt.show()
 ✔️ `Oolong MT` is the **best-selling beverage** while `Passion Fruit Tea` is the **least popular** one.
 
 
-👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
+👉👉👉For more plots: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 ---
 
@@ -271,7 +271,7 @@ plt.show()
 ✔️ **No major Outliers**, showing **consistent patterns** across most orders.
 
 
-👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
+👉👉👉For more plots: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 ---
 
@@ -300,7 +300,7 @@ plt.show()
 ✔️ **Cat. A** and **B** contribute the smallest shares (16.1% and 8.4%, respectively)
 
 
-👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
+👉👉👉For more plots: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 
 # 📌 CONCLUSIONS
