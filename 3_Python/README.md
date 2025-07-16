@@ -215,6 +215,8 @@ plt.show(boxplot1)
 ```
 ![box_plot](https://github.com/user-attachments/assets/876bd3ac-b0d4-43b3-90db-0952a8f88c9e)
 
+_Box plot showing Sales distribution by location_
+
 ✔️ **Beltline** & **Country Hills** have the **highest median** Total Cost (>30), meaning customers tend to **place bigger orders** at these locations.
 
 ✔️ **Saddle Ridge** & **Panorama Hills** fall around the **mid-range median** (~20), suggesting **moderate spending** per order.
@@ -250,6 +252,8 @@ plt.show()
 
 ![location](https://github.com/user-attachments/assets/1fcf6873-b174-42ae-9966-1dbf884fe662)
 
+_Bar chart showing the most profitable location_
+
 ✔️ **Panorama Hills** generates the **highest Revenue** (>700$), followed by **Saddle Ridge** (~500$)
 
 ✔️ **Beltline** & **Brentwood** earn **similar sales** (~300$).
@@ -278,6 +282,8 @@ plt.show()
 
 ![scatter](https://github.com/user-attachments/assets/9a70c15b-915b-469a-a544-2f4fc03ef393)
 
+_Scatter plot visualizing the relationship between Quantity vs. Sales_
+
 ✔️ Relationship between **Total Cost** and **Quantity** is almost **linear**, meaning each drink contributes evenly to the total bill.
 
 ✔️ **Cost variation** due to differences in prices.
@@ -292,7 +298,7 @@ plt.show()
 ### 📉 Pie chart: Total Sales by Order Location
 
 ```
-# PIE Chart: Category vs. Total Cost
+# PIE Chart: Discount% across Categories
 discount_by_category = boba.groupby('Category')['Total Cost'].sum()
 
 # Create the pie chart
@@ -308,6 +314,8 @@ plt.title('Discount % by Category')
 plt.show()
 ```
 ![pie_chart](https://github.com/user-attachments/assets/635e55cd-df91-428f-a588-d96cfc0aefcd)
+
+_Pie chart showing distribution of Discount% by Category_
 
 ✔️ **Cat. D** holds the majority share (54.0%), meaning it **contributes over half** of all discounts, followed by **Cat. C** (21.6%)
 
