@@ -1,13 +1,16 @@
 # 📚TABLE OF CONTENTS
 
-- [🧋 INTRO](#intro)
-    
-- [📉 1_If/Elif/Else](#1if-elif-else)
-  
-- [📉 2_While loop and For loop](#2while-loop-and-for-loop)
+### 📑 Table of Contents
+
+1. [🧋 INTRO](#intro)  
+2. [🤔 1) If/Elif/Else](#1-ifelifelse)  
+3. [➿ 2) While loop and For loop](#2-while-loop-and-for-loop)  
+4. [📊 3) Data Viz](#3-data-viz)  
+   - [📝 1) Descriptive Summary](#1-descriptive-summary)  
+   - [📊 2) Data Visualization](#2-data-visualization)  
+5. [📌 CONCLUSIONS](#conclusions)
 
 
-- [📌 CONCLUSIONS](#conclusions)
 ---
 
 # 🧋INTRO
