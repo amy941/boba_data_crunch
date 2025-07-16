@@ -18,7 +18,7 @@
 ---
 
 # 🧋INTRO
-This is **Part 3** of the Bubble Tea project where I applied **Python libraries** (NumPy, Pandas, Matplotlib, and Seaborn) to **transform raw CSV data into meaningful insights**. 
+This is **Part 3** of the Bubble Tea project where I applied **Python libraries** (NumPy, Pandas, Matplotlib, and Seaborn) to **transform raw CSV files into meaningful insights**. 
 
 The focus here is on:
 
