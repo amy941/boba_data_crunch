@@ -3,8 +3,11 @@
 ### 📑 Table of Contents
 
 [🧋 INTRO](#intro)  
+
 [🤔 1) If/Elif/Else](#1-ifelifelse)  
+
 [➿ 2) While loop and For loop](#2-while-loop-and-for-loop)  
+
 [📊 3) Data Viz](#3-data-viz)  
    - [📝 1) Descriptive Summary](#-1-descriptive-summary)  
    - [📊 2) Data Visualization](#-2-data-visualization)
