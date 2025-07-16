@@ -2,9 +2,9 @@
 
 - [🧋 INTRO](#intro)
     
-- [📉 1_If/Elif/Else](#1_if-elif-else)
+- [📉 1_If/Elif/Else](#1if-elif-else)
   
-- [📉 2_While loop and For loop](#2_while-loop-and-for-loop)
+- [📉 2_While loop and For loop](#2while-loop-and-for-loop)
 
 
 - [📌 CONCLUSIONS](#conclusions)
