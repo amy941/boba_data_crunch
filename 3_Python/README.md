@@ -304,7 +304,7 @@ plt.show()
 
 
 # 📌 CONCLUSIONS
-✔️ `Brown Sugar MT` and `Oolong MT` **drive the most sales**, serving as the best-selling and the most expensive drink in the store.
+✔️ `Brown Sugar MT` and `Oolong MT` **drive the most sales**, serving as the **best-selling** and the **most expensive** drink in the store.
 
 ✔️ `Panorama Hills` and `Saddle Ridge` are **the most profitable locations**.
 
