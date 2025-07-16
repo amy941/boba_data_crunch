@@ -16,16 +16,16 @@ The focus here is on:
 
 ## Resources
 👉**Click HERE:**
-- [If/Elif]()
-- [WHILE/FOR loop]()
-- [Data_Visualization]()
+- [If/Elif](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250708_IF_and_ELIF.ipynb)
+- [WHILE/FOR loop](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250709_While_loop_%26_For_loop.ipynb)
+- [Data_Visualization](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
-👉**Click HERE:** [raw_data]()
+👉**Click HERE:** [raw_data](https://github.com/amy941/boba_data_crunch/tree/main/raw_data/Python_raw)
 
 ---
 
 # 🤔1) If/Elif/Else
-## 🔗Link:
+## 🔗Link: [If/Elif](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250708_IF_and_ELIF.ipynb)
 
 ## **Problem 1:** Amy is a data professional for `VieNa Tea House`. Her task is to leverage Sales Summary data to categorize discounts based on order cost ranges.
 
@@ -87,7 +87,7 @@ reward_customer(3, discount_threshold=5, free_drink_threshold=10)   # None
 ---
 
 # ➿2) While loop and For loop
-## 🔗Link:
+## 🔗Link: [WHILE/FOR loop](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250709_While_loop_%26_For_loop.ipynb)
 
 ## **Problem 1:** `VieNa Tea House` offers a `Buy 2 Get 1 Free` deal on the first Tuesday of each month through their website. Customers have limited time to complete their orders. 
 Amy was asked to create a system that starts a **10-minute countdown**. During the countdown:
@@ -157,7 +157,7 @@ def customer_feedback(score_list):
 ---
 
 # 📊3) Data Viz:
-## 🔗Link:
+## 🔗Link: [Data_Visualization](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 ## 📝 1) Descriptive Summary: Amy was asked to conduct `exploratory data analysis (EDA)` on the Sales data.
 - She used **methods** and **attributes** such as `head()`, `.shape`, `.dtypes`, `.drop_duplicates()` to study and clean the CSV raw data.
@@ -182,7 +182,7 @@ boba.sort_values(by='Price per Drink', ascending=False).head()
 ✔️ `Brown Sugar MT` and `Avocado Slush` are the **most costly drinks**
   
 
-👉👉👉For more information: Click [HERE]
+👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 ---
 
@@ -208,7 +208,7 @@ plt.show(boxplot1)
 ✔️ **Brentwood** has the **lowest median** (~12), showing **customers spend less** per order in this area.
 
 
-👉👉👉Check out more plots: Click [HERE]
+👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 ---
 
@@ -245,7 +245,7 @@ plt.show()
 ✔️ `Oolong MT` is the **best-selling beverage** while `Passion Fruit Tea` is the **least popular** one.
 
 
-👉👉👉Check out more plots: Click [HERE]
+👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 ---
 
@@ -271,7 +271,7 @@ plt.show()
 ✔️ **No major Outliers**, showing **consistent patterns** across most orders.
 
 
-👉👉👉Check out more plots: Click [HERE]
+👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 ---
 
@@ -300,7 +300,7 @@ plt.show()
 ✔️ **Cat. A** and **B** contribute the smallest shares (16.1% and 8.4%, respectively)
 
 
-👉👉👉Check out more plots: Click [HERE]
+👉👉👉For more information: Click [HERE](https://github.com/amy941/boba_data_crunch/blob/main/3_Python/20250710_Data_Visualizations_with_Python.ipynb)
 
 
 # 📌 CONCLUSIONS
