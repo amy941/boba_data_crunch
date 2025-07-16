@@ -26,7 +26,7 @@ The focus here is on:
 
 ✅ **Loops:** `WHILE` loop & `FOR` loop
 
-✅ **Data Visualization:** `Graphs` (Bar, Scatter Plot, Pie) and `descriptive summary`
+✅ **Data Visualization:** `Graphs` (Bar, Scatter Plot, Pie) and `Descriptive Summary`
 
 ## Resources
 👉**Click HERE:**
@@ -132,7 +132,7 @@ while mins >= 0:
 
 ![while](https://github.com/user-attachments/assets/039b681c-2947-4137-afaf-eadc4d8c9b05)
 
-✅ **Insights:** **Amy’s countdown timer works** as intended, providing **timely reminders** and prompting users to **complete their orders** before the offer expires. The logic creates a simple yet effective experience that encourages faster checkout.
+✅ **Insights:** **Amy’s countdown timer works** as intended, providing **timely reminders** and prompting users to **complete their orders** before the offer expires. The logic creates a simple yet effective experience that boosts engagement and sales.
 
 ---
 
